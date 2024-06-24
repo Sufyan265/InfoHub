@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/InfoHub/static/css/main.b43dfe59.css",
+    "main.js": "/InfoHub/static/js/main.336dca0d.js",
+    "static/js/453.b2157c12.chunk.js": "/InfoHub/static/js/453.b2157c12.chunk.js",
+    "static/media/Alternative Image.jpg": "/InfoHub/static/media/Alternative Image.2d74935a2610afe11066.jpg",
+    "static/media/No results found.png": "/InfoHub/static/media/No results found.155afd258fe5415b12fd.png",
+    "static/media/Error handling SVG.svg": "/InfoHub/static/media/Error handling SVG.07027d1f24bbf433701840c211bfc3f6.svg",
+    "static/media/ms-icon-310x310.png": "/InfoHub/static/media/ms-icon-310x310.6e2adbe73a35f03b4f22.png",
+    "static/media/8815177.png": "/InfoHub/static/media/8815177.1415383cd0d6b378ccf7.png",
+    "index.html": "/InfoHub/index.html",
+    "main.b43dfe59.css.map": "/InfoHub/static/css/main.b43dfe59.css.map",
+    "main.336dca0d.js.map": "/InfoHub/static/js/main.336dca0d.js.map",
+    "453.b2157c12.chunk.js.map": "/InfoHub/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b43dfe59.css",
+    "static/js/main.336dca0d.js"
+  ]
+}
