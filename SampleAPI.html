@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News API Example</title>
+</head>
+
+<body>
+    <h1>Check console</h1>
+
+    <script>
+        // Function to fetch data asynchronously
+        const url = 'https://biztoc.p.rapidapi.com/news/latest';
+        const options = {
+            method: 'GET',
+            headers: {
+                'X-RapidAPI-Key': 'f2c179e824msh22acf5d7dc3bb20p155cb3jsn707788328deb',
+                'X-RapidAPI-Host': 'biztoc.p.rapidapi.com'
+            }
+        };
+
+        try {
+            (async () => {
+                const response = await fetch(url, options);
+                const result = await response.json();
+                console.log(result);
+            })();
+        } catch (error) {
+            console.error(error);
+        }
+    </script>
+</body>
+
+</html>

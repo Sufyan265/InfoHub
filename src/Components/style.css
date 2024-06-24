@@ -1,0 +1,395 @@
+@import url('https://fonts.googleapis.com/css2?family=Livvic:wght@500&family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+    --DefaultBgColor: "#003049"
+}
+
+.searchBar-section {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3.6rem;
+}
+
+.searchBar {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bgStyle {
+    background-color: #f0f0f0;
+    border: 1px solid #d8d8d87d;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    background-color: #f6f6f6;
+}
+
+#button-addon1:active {
+    scale: 0.9;
+}
+
+/* .form-control:focus .bgStyle {
+    background-color: #ff0000;
+} */
+
+.form-control-underlined {
+    border-width: 0;
+    border-bottom-width: 1px;
+    border-radius: 0;
+    padding-left: 0;
+}
+
+.input-group {
+    width: 30rem;
+}
+
+.placeholderImg {
+    cursor: progress;
+}
+
+.statusBox {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgBox {
+    position: relative;
+}
+
+.imgBox img {
+    width: 20rem;
+}
+
+.imgBox p {
+    font-family: 'Protest Strike', sans-serif;
+    color: rgb(36, 63, 72);
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 7%) rotate(353deg);
+    display: inline-block;
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color: rgb(252, 219, 204);
+    /* padding: 0 5px 0; */
+    letter-spacing: 3px;
+}
+
+.message {
+    transform: translate(0, -60px);
+}
+
+.message p,
+.message h4 {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0 0 3px 0;
+    text-align: center;
+    color: rgb(165, 69, 76);
+}
+
+.message h4 {
+    font-size: 22px;
+}
+
+.message p {
+    font-size: 17px;
+}
+
+.message .ErrorTip {
+    font-size: 14px;
+    color: rgb(104, 104, 104);
+}
+
+.reloadBtn {
+    font-family: monospace, sans-serif;
+    transform: translate(0, -50px);
+    font-size: 16px;
+    padding: 1px 13px;
+}
+
+.fg {
+    display: inline;
+}
+
+.toggleColor .line {
+    stroke: red;
+    /* Change the stroke color of the paths */
+}
+
+#button-addon1 {
+    border: unset;
+}
+
+.noResultContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.noResultContainer .noResultImg {
+    width: 12rem;
+}
+
+.noResultContainer p {
+    color: #5e5e5e;
+    text-align: center;
+}
+
+.carousel-img {
+    height: 300px;
+    object-fit: cover;
+    object-position: center center;
+}
+
+.carousel-caption {
+    margin: 0;
+    padding: 0;
+}
+
+.alignCards {
+    /* padding: 0; */
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+#newsItems {
+    border: unset;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+
+#newsItems .card-body {
+    padding: 1rem 0 1rem 0;
+}
+
+#newsItems>img {
+    max-height: 200px;
+    border-radius: 7px;
+    object-fit: cover;
+    object-position: center center;
+}
+
+#newsItems .card-title {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+#newsItems .card-text {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #888;
+}
+
+#newsItems .btn {
+    font-size: 13px;
+}
+
+#newsItems .card-date {
+    margin: 0 0 5px 0;
+    color: #999;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.loadingImg {
+    width: 18rem;
+}
+
+.heading-style {
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    color: black;
+    font-size: 2.3rem;
+    font-weight: 600;
+
+}
+
+.txtStyle {
+    text-shadow: 2px 2px 6px black;
+    cursor: pointer;
+}
+
+.faviconImg {
+    /* background-color: blue; */
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.faviconImg img {
+    width: 1.6rem;
+    height: 1.6rem;
+    box-shadow: 1px 1px 8px rgb(60 60 60 / 37%);
+    transition: all 0.2s;
+}
+
+.faviconImg img:hover {
+    scale: 1.1;
+}
+
+.faviconImg img:active {
+    scale: 1;
+}
+
+
+.paginationSection {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+.form-group {
+    position: relative;
+    /* margin-bottom: 1.5rem; */
+}
+
+.form-control-placeholder {
+    position: absolute;
+    top: 0;
+    padding: 7px 0 0 10px;
+    transition: all 200ms;
+    opacity: 0.5;
+    color: white;
+}
+
+.findNews:focus+.form-control-placeholder,
+.findNews:valid+.form-control-placeholder {
+    font-size: 69%;
+    transform: translate3d(0, -100%, 0);
+    opacity: 1;
+    top: 10px;
+}
+
+.findNews {
+    border: 0;
+    outline: 0;
+    border-bottom: 2px solid white !important;
+    font-size: 16px;
+    /* color: #ccc; */
+    color: white;
+    background-color: transparent;
+
+}
+
+.findNews:focus {
+    border: 0;
+
+    color: white;
+    background-color: transparent;
+    border-color: white;
+    outline: 0;
+    border-bottom: 2px solid white;
+    box-shadow: 0 0 0 0.2rem transparent;
+}
+
+.page-link {
+    margin: 0;
+}
+
+.linkStyle {
+    text-decoration: none;
+}
+
+.trendingTagStyle {
+    position: relative;
+    background: #ffffff;
+    color: #000;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+
+    height: 50px;
+    font-size: 17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1); */
+    border: 1px solid #d1d1d1;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.trendingTagStyle p {
+    margin: 0;
+    min-width: 130px;
+    max-width: 100%;
+    text-align: center;
+}
+
+.trendingTagStyle:hover {
+    /* background: linear-gradient(320deg, rgb(3, 77, 146), #002f49); */
+    background: #002f49;
+    color: #ffffff;
+}
+
+.trendingTagStyle:active {
+    scale: 0.95;
+}
+
+
+
+@media screen and (max-width: 768px) {
+    .input-group {
+        width: 15rem;
+    }
+
+    .imgBox img {
+        width: 15rem;
+    }
+
+    .imgBox p {
+        font-size: 1.2rem;
+        /* padding: 0 2px 0; */
+    }
+
+    .message {
+        transform: translate(0, -35px);
+    }
+
+    .reloadBtn {
+        transform: translate(0, -30px);
+        font-size: 14px;
+    }
+
+
+
+
+}
+
+@media screen and (max-width: 310px) {
+    .input-group {
+        width: 10rem;
+    }
+
+    .card {
+        width: 15rem !important;
+    }
+
+    .socials li {
+        margin: 9px 10px;
+    }
+}

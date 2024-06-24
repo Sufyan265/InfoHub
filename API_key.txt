@@ -1,0 +1,7 @@
+
+newsData.io
+Key: pub_36349be79f3e24132c78c48fbf41d751ec9b2
+
+https://newsdata.io/api/1/archive?apikey=pub_36349be79f3e24132c78c48fbf41d751ec9b2&q=example&language=en&from_date=2023-01-19&to_date=2023-01-25
+
+https://newsdata.io/api/1/news?apikey=pub_36349be79f3e24132c78c48fbf41d751ec9b2&q=pizza&language=en

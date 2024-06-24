@@ -1,0 +1,3388 @@
+{
+    "0": "main",
+    "1": "media",
+    "2": "hot"
+}
+// Latest news Sample:
+
+[
+    [
+        {
+            "body": "On Friday, former President Donald Trump's son, Eric Trump, strongly criticized the decision by a New York court to impose a substantial fine on his father. The penalty, nearing $355 million, was handed down by Judge Arthur Engoron following a civil fraud trial that scrutinized the Trump family's…",
+            "created": "Sat, 17 Feb 2024 17:58:10 GMT",
+            "domain": "benzinga.com",
+            "favicon": "https://c.biztoc.com/f/benzinga.com.png",
+            "id": "7cc24f89baf7b088",
+            "img": {
+                "o": "https://c.biztoc.com/p/7cc24f89baf7b088/o.webp",
+                "s": "https://c.biztoc.com/p/7cc24f89baf7b088/s.webp",
+                "t": "https://c.biztoc.com/p/7cc24f89baf7b088/t.webp",
+                "w": "https://c.biztoc.com/p/7cc24f89baf7b088/w.webp"
+            },
+            "tags": [
+                "donaldtrump",
+                "erictrump",
+                "arthurengoron",
+                "newyorkcity",
+                "donaldtrumpjr",
+                "trump",
+                "donaldjr"
+            ],
+            "title": "Eric Trump Outraged Over Hefty Fine In NY Civil Fraud Case: 'My Father Built A Skyline In New York City ... This Is The Thanks He Gets'",
+            "url": "https://www.benzinga.com/news/24/02/37193237/eric-trump-outraged-over-hefty-fine-in-ny-civil-fraud-case-my-father-built-a-skyline-in-new-york-cit?ref=biztoc.com"
+        },
+        {
+            "body": "Britain has a sick economy and it is getting sicker. The clear message from last week’s raft of economic data is that the UK is being held back by the growing number of people not able to work because of long-term illness. There are many theories about why the trend is worsening. Possible factors…",
+            "created": "Sat, 17 Feb 2024 17:58:06 GMT",
+            "domain": "theguardian.com",
+            "favicon": "https://c.biztoc.com/f/theguardian.com.png",
+            "id": "9cb9d3bf249c4711",
+            "img": {
+                "o": "https://c.biztoc.com/p/9cb9d3bf249c4711/o.webp",
+                "s": "https://c.biztoc.com/p/9cb9d3bf249c4711/s.webp",
+                "t": "https://c.biztoc.com/p/9cb9d3bf249c4711/t.webp",
+                "w": "https://c.biztoc.com/p/9cb9d3bf249c4711/w.webp"
+            },
+            "tags": [
+                "nhs",
+                "jeremyhunt",
+                "rachelreeves",
+                "janegratton",
+                "g7",
+                "womensbudgetgroup",
+                "wbg",
+                "zubaidahaque",
+                "hannahslaughter",
+                "resolutionfoundation",
+                "benharrison",
+                "workfoundation",
+                "ippr",
+                "christhomas",
+                "bcc",
+                "ons"
+            ],
+            "title": "Record long-term sickness bodes ill for UK economic growth",
+            "url": "https://www.theguardian.com/business/2024/feb/17/record-long-term-sickness-bodes-ill-for-uk-economic-growth?ref=biztoc.com"
+        },
+        {
+            "body": "Former Whitewater lawyer Sol Wisenberg told Fox & Friends Weekend host Guy Benson on Saturday that Judge Arthur Engoron's decision in Donald Trump's New York civil fraud case was \"political.\" New York Attorney General Letitia James in a lawsuit filed in September 2022 accused Trump, his two adult…",
+            "created": "Sat, 17 Feb 2024 17:58:05 GMT",
+            "domain": "newsweek.com",
+            "favicon": "https://c.biztoc.com/f/newsweek.com.png",
+            "id": "1d3841978175dc62",
+            "img": {
+                "o": "https://c.biztoc.com/p/1d3841978175dc62/o.webp",
+                "s": "https://c.biztoc.com/p/1d3841978175dc62/s.webp",
+                "t": "https://c.biztoc.com/p/1d3841978175dc62/t.webp",
+                "w": "https://c.biztoc.com/p/1d3841978175dc62/w.webp"
+            },
+            "tags": [
+                "solwisenberg",
+                "foxfriendsweekend",
+                "guybenson",
+                "arthurengoron",
+                "donaldtrump",
+                "letitiajames",
+                "trump",
+                "donaldjr",
+                "trumporganization",
+                "allenweisselberg",
+                "jeffmcconney",
+                "monthslong",
+                "christopherkise",
+                "appellatedivision",
+                "wisenberg",
+                "kennethstarr",
+                "billclinton",
+                "arkansas",
+                "engoron"
+            ],
+            "title": "Donald Trump civil fraud decision \"political\": Former whitewater lawyer",
+            "url": "https://www.newsweek.com/donald-trump-civil-fraud-decision-political-former-whitewater-lawyer-1870936?ref=biztoc.com"
+        },
+        {
+            "body": "The National Banking and Securities Commission of Honduras (CNBS) has passed a resolution prohibiting the country’s financial institutions from engaging in cryptocurrency-related activities. The CNBS stated that crypto transactions cannot be guaranteed by the Honduran central bank due to the lack…",
+            "created": "Sat, 17 Feb 2024 17:56:12 GMT",
+            "domain": "cryptonews.com",
+            "favicon": "https://c.biztoc.com/f/cryptonews.com.png",
+            "id": "ef165f89a743c90c",
+            "img": {
+                "o": "https://c.biztoc.com/p/ef165f89a743c90c/o.webp",
+                "s": "https://c.biztoc.com/p/ef165f89a743c90c/s.webp",
+                "t": "https://c.biztoc.com/p/ef165f89a743c90c/t.webp",
+                "w": "https://c.biztoc.com/p/ef165f89a743c90c/w.webp"
+            },
+            "tags": [
+                "honduran",
+                "cnbs",
+                "honduras",
+                "elsalvador",
+                "bitcoin",
+                "vitalia",
+                "petarčekerevac",
+                "próspera",
+                "roatánisland",
+                "jorgecolindres",
+                "bitcoinvalley",
+                "santalucia",
+                "holdings"
+            ],
+            "title": "Honduras Tightens Crypto Regulations, Prohibits Bank Transactions and Holdings",
+            "url": "https://cryptonews.com/news/honduras-tightens-crypto-regulations-prohibits-bank-transactions-and-holdings.htm?ref=biztoc.com"
+        },
+        {
+            "body": "Chicago Mayor Extends Contract On Anti-Crime Program That He Campaigned Against As Racist Authored by Jonathan Turley, I have written about the disastrous policies of Mayor Brandon Johnson for Chicago. As a native son, it is hard to watch this wonderful city undermined by Johnson and radical…",
+            "created": "Sat, 17 Feb 2024 17:56:07 GMT",
+            "domain": "zerohedge.com",
+            "favicon": "https://c.biztoc.com/f/zerohedge.com.png",
+            "id": "a67847743a8e2198",
+            "img": {
+                "o": "https://c.biztoc.com/p/a67847743a8e2198/o.webp",
+                "s": "https://c.biztoc.com/p/a67847743a8e2198/s.webp",
+                "t": "https://c.biztoc.com/p/a67847743a8e2198/t.webp",
+                "w": "https://c.biztoc.com/p/a67847743a8e2198/w.webp"
+            },
+            "tags": [
+                "anticrimeprogram",
+                "jonathanturley",
+                "brandonjohnson",
+                "shotspotter",
+                "shotstopper",
+                "chicagoans"
+            ],
+            "title": "Chicago Mayor Extends Contract On Anti-Crime Program That He Campaigned Against As Racist",
+            "url": "https://www.zerohedge.com/political/chicago-mayor-extends-contract-anti-crime-program-he-campaigned-against-racist?ref=biztoc.com"
+        },
+        {
+            "body": "Joining me in the Apple Original Films portion of Deadline’s Contenders Film: The Nominees were several Oscar nominees for Martin Scorsese’s epic Western Killers of the Flower Moon, and since the film has been nominated for a whopping 10 Academy Awards it was a good cross-section of artisans who…",
+            "created": "Sat, 17 Feb 2024 17:56:06 GMT",
+            "domain": "deadline.com",
+            "favicon": "https://c.biztoc.com/f/deadline.com.png",
+            "id": "1be6218f99c0a39a",
+            "img": {
+                "o": "https://c.biztoc.com/p/1be6218f99c0a39a/o.webp",
+                "s": "https://c.biztoc.com/p/1be6218f99c0a39a/s.webp",
+                "t": "https://c.biztoc.com/p/1be6218f99c0a39a/t.webp",
+                "w": "https://c.biztoc.com/p/1be6218f99c0a39a/w.webp"
+            },
+            "tags": [
+                "appleoriginalfilms",
+                "martinscorseses",
+                "flowermoon",
+                "rodrigoprieto",
+                "jackfisk",
+                "adamwillis",
+                "daniellupi",
+                "scottgeorge",
+                "lupi",
+                "oklahoma",
+                "osagenation",
+                "willis",
+                "nativeamerican",
+                "originalsong",
+                "buffysaintemarie",
+                "upwherewebelong",
+                "lilygladstone",
+                "martin",
+                "leotoken",
+                "bravehorse",
+                "martinscorsese"
+            ],
+            "title": "‘Killers Of The Flower Moon’ Team Talks Bringing Authenticity To Martin Scorsese’s Epic Western",
+            "url": "https://deadline.com/2024/02/killers-of-the-flower-moon-oscar-nominees-interview-rodrigo-prieto-jack-fisk-1235822470/?ref=biztoc.com"
+        },
+        {
+            "body": "As the bubble deflated and start-up valuations shrank, “Everyone panicked,” said Michael Dempsey, managing partner of the venture firm Compound. Some developers wondered if they had wasted their time shuffling around software. This period of searching and self-doubt presented an opening for…",
+            "created": "Sat, 17 Feb 2024 17:54:17 GMT",
+            "domain": "washingtonpost.com",
+            "favicon": "https://c.biztoc.com/f/washingtonpost.com.png",
+            "id": "d752f454e7da75e5",
+            "img": {
+                "o": "https://c.biztoc.com/p/d752f454e7da75e5/o.webp",
+                "s": "https://c.biztoc.com/p/d752f454e7da75e5/s.webp",
+                "t": "https://c.biztoc.com/p/d752f454e7da75e5/t.webp",
+                "w": "https://c.biztoc.com/p/d752f454e7da75e5/w.webp"
+            },
+            "tags": [
+                "michaeldempsey"
+            ],
+            "title": "How tech workers, spurred by geopolitical threats, are embracing battlefield tech; PitchBook: VCs invested $108B in defense tech companies between 2021 and 2023",
+            "url": "https://www.washingtonpost.com/technology/2024/02/17/silicon-valley-military-tech-defense-contractors/?ref=biztoc.com"
+        },
+        {
+            "body_preview": "",
+            "created": "Sat, 17 Feb 2024 17:54:10 GMT",
+            "domain": "reuters.com",
+            "favicon": "https://c.biztoc.com/f/reuters.com.png",
+            "id": "4fad86b53ab4a319",
+            "img": null,
+            "tags": [],
+            "title": "Trump comments show Europe must spend more on defence, Latvia says",
+            "url": "https://www.reuters.com/world/europe/trump-comments-show-europe-must-spend-more-defence-latvia-says-2024-02-17/?ref=biztoc.com"
+        },
+        {
+            "body": "Norway boasts the highest electric vehicle adoption rate in the world. Some 82% of new car sales were EVs in Norway in 2023, according to the Norwegian Road Federation (OFV). In comparison, 7.6% of new car sales were electric in the U.S. last year, according to Kelley Blue Book estimates. In the…",
+            "created": "Sat, 17 Feb 2024 17:54:05 GMT",
+            "domain": "cnbc.com",
+            "favicon": "https://c.biztoc.com/f/cnbc.com.png",
+            "id": "6bdc1d30ccbc583d",
+            "img": {
+                "o": "https://c.biztoc.com/p/6bdc1d30ccbc583d/o.webp",
+                "s": "https://c.biztoc.com/p/6bdc1d30ccbc583d/s.webp",
+                "t": "https://c.biztoc.com/p/6bdc1d30ccbc583d/t.webp",
+                "w": "https://c.biztoc.com/p/6bdc1d30ccbc583d/w.webp"
+            },
+            "tags": [
+                "norway",
+                "kelleybluebook",
+                "ragnhildsyrstad",
+                "norwegian",
+                "tesla",
+                "oslo",
+                "petterhaugneland",
+                "scandinavian"
+            ],
+            "title": "What the U.S. can learn from Norway when it comes to EV adoption",
+            "url": "https://www.cnbc.com/2024/02/17/what-the-us-can-learn-from-norway-when-it-comes-to-ev-adoption.html?ref=biztoc.com"
+        },
+        {
+            "body": "Data streaming is the technology behind many of your real-time experiences on the internet. It powers the live inventory information you see when you shop online, and your favorite sports betting platform uses it to feed live odds directly to your smartphone. Confluent (NASDAQ: CFLT) leads the…",
+            "created": "Sat, 17 Feb 2024 17:50:06 GMT",
+            "domain": "finance.yahoo.com",
+            "favicon": "https://c.biztoc.com/f/finance.yahoo.com.png",
+            "id": "0495a653d2775aaa",
+            "img": {
+                "o": "https://c.biztoc.com/p/0495a653d2775aaa/o.webp",
+                "s": "https://c.biztoc.com/p/0495a653d2775aaa/s.webp",
+                "t": "https://c.biztoc.com/p/0495a653d2775aaa/t.webp",
+                "w": "https://c.biztoc.com/p/0495a653d2775aaa/w.webp"
+            },
+            "tags": [
+                "cflt",
+                "netflix",
+                "amazon",
+                "walmart",
+                "confluent",
+                "johnmackey",
+                "wholefoodsmarket",
+                "motleyfools",
+                "anthonydipizio",
+                "motleyfool",
+                "buyhandoverfist"
+            ],
+            "title": "1 Unstoppable Stock Down 66% to Buy Hand Over Fist, According to Wall Street",
+            "url": "https://finance.yahoo.com/news/1-unstoppable-stock-down-66-111000288.html?ref=biztoc.com"
+        },
+        {
+            "body": "A teenage girl traveling to Taylor Swift‘s Eras Tour concert in Melbourne, Australia, was killed in a car accident. On Thursday (Feb. 15), fan Mieka Pokarier, 16, was traveling with her mother and 10-year-old sister from the Gold Coast to the pop superstar’s show in Melbourne Cricket Ground when…",
+            "created": "Sat, 17 Feb 2024 17:44:09 GMT",
+            "domain": "billboard.com",
+            "favicon": "https://c.biztoc.com/f/billboard.com.png",
+            "id": "8c79856a92d85553",
+            "img": {
+                "o": "https://c.biztoc.com/p/8c79856a92d85553/o.webp",
+                "s": "https://c.biztoc.com/p/8c79856a92d85553/s.webp",
+                "t": "https://c.biztoc.com/p/8c79856a92d85553/t.webp",
+                "w": "https://c.biztoc.com/p/8c79856a92d85553/w.webp"
+            },
+            "tags": [
+                "melbourne",
+                "miekapokarier",
+                "goldcoast",
+                "tmz",
+                "sydney",
+                "westmeadhospital",
+                "karleighfox",
+                "gofundme",
+                "singapore",
+                "sweden",
+                "portugal",
+                "unitedkingdomeurope",
+                "estadioniltonsanton",
+                "riodejaneiro",
+                "brazil"
+            ],
+            "title": "Taylor Swift Fan Killed in Car Crash While Heading to Eras Concert in Australia",
+            "url": "https://www.billboard.com/music/music-news/taylor-swift-fan-killed-car-crash-eras-tour-concert-australia-1235610271/?ref=biztoc.com"
+        },
+        {
+            "body": "has been the center of attention due to a massive accumulation by whale investors, as reported by the crypto analytics platform Lookonchain. According to the platform, over 11 million LINK tokens, valued at approximately $216.4 million, have been moved from the Binance exchange to 83 distinct…",
+            "created": "Sat, 17 Feb 2024 17:42:15 GMT",
+            "domain": "coingape.com",
+            "favicon": "https://c.biztoc.com/f/coingape.com.png",
+            "id": "4189617196c70827",
+            "img": {
+                "o": "https://c.biztoc.com/p/4189617196c70827/o.webp",
+                "s": "https://c.biztoc.com/p/4189617196c70827/s.webp",
+                "t": "https://c.biztoc.com/p/4189617196c70827/t.webp",
+                "w": "https://c.biztoc.com/p/4189617196c70827/w.webp"
+            },
+            "tags": [
+                "linktokens",
+                "itb",
+                "ccip",
+                "robertkiyosakiurges"
+            ],
+            "title": "Poised for Parabolic Surge with Whale Onslaught?",
+            "url": "https://coingape.com/is-chainlink-link-poised-for-parabolic-surge-with-whale-onslaught/?ref=biztoc.com"
+        },
+        {
+            "body": "Alina Habba, a lawyer for former President Trump, slammed a judge’s recent ruling in the former president’s New York civil fraud trial Friday. “[T]hey will not get away with it,” Habba said on Fox News’ “Hannity”. “We will come at them, we will come hard, and we will literally fight until the…",
+            "created": "Sat, 17 Feb 2024 17:42:11 GMT",
+            "domain": "thehill.com",
+            "favicon": "https://c.biztoc.com/f/thehill.com.png",
+            "id": "9dc3a84cd0c67dfe",
+            "img": {
+                "o": "https://c.biztoc.com/p/9dc3a84cd0c67dfe/o.webp",
+                "s": "https://c.biztoc.com/p/9dc3a84cd0c67dfe/s.webp",
+                "t": "https://c.biztoc.com/p/9dc3a84cd0c67dfe/t.webp",
+                "w": "https://c.biztoc.com/p/9dc3a84cd0c67dfe/w.webp"
+            },
+            "tags": [
+                "alinahabba",
+                "habba",
+                "arthurengoron",
+                "trump",
+                "letitiajames",
+                "engoron",
+                "hill",
+                "donaldtrump"
+            ],
+            "title": "Trump lawyer Alina Habba on NY fraud verdict: ‘They will not get away with it’",
+            "url": "https://thehill.com/regulation/court-battles/4474611-trump-lawyer-habba-ny-fraud-verdict-they-will-not-get-away-with-it/?ref=biztoc.com"
+        },
+        {
+            "body": "The Oscar-nominated artisans from Ridley Scott‘s epic Napoleon joined me as part of Apple Original Films‘ presentations at Deadline’s Contenders Film: The Nominees event. Veteran production designer Arthur Max and costume designers Janty Yates and David Crossman talked extensively about what it…",
+            "created": "Sat, 17 Feb 2024 17:42:10 GMT",
+            "domain": "deadline.com",
+            "favicon": "https://c.biztoc.com/f/deadline.com.png",
+            "id": "e828768cc9c07a90",
+            "img": {
+                "o": "https://c.biztoc.com/p/e828768cc9c07a90/o.webp",
+                "s": "https://c.biztoc.com/p/e828768cc9c07a90/s.webp",
+                "t": "https://c.biztoc.com/p/e828768cc9c07a90/t.webp",
+                "w": "https://c.biztoc.com/p/e828768cc9c07a90/w.webp"
+            },
+            "tags": [
+                "ridleyscotts",
+                "napoleon",
+                "appleoriginalfilms",
+                "arthurmax",
+                "jantyyates",
+                "davidcrossman",
+                "joaquinphoenix",
+                "napoleonbonaparte",
+                "vanessakirby",
+                "yates",
+                "oscar",
+                "malta",
+                "toulon",
+                "elba",
+                "sthelena",
+                "ridley",
+                "jodiecomer",
+                "vanessa",
+                "stevenspielberg"
+            ],
+            "title": "‘Napoleon’s’ Oscar-Nominated Production And Costume Designers On The Challenges Of Ridley Scott’s Latest Epic",
+            "url": "https://deadline.com/2024/02/napoleon-oscar-nominees-interview-arthur-max-janty-yates-david-crossma-1235822410/?ref=biztoc.com"
+        },
+        {
+            "body": "Stan Lee's Favorite Marvel Cameo Is Likely Not The Moment You Think From \"The Trial of the Incredible Hulk\" to \"Avengers: Endgame,\" the late Marvel Comics icon Stan Lee made numerous cameos in Marvel film and television productions. From blink-and-you'll-miss-it appearances in the background to…",
+            "created": "Sat, 17 Feb 2024 17:40:22 GMT",
+            "domain": "looper.com",
+            "favicon": "https://c.biztoc.com/f/looper.com.png",
+            "id": "2cb98d31b9fc9cca",
+            "img": {
+                "o": "https://c.biztoc.com/p/2cb98d31b9fc9cca/o.webp",
+                "s": "https://c.biztoc.com/p/2cb98d31b9fc9cca/s.webp",
+                "t": "https://c.biztoc.com/p/2cb98d31b9fc9cca/t.webp",
+                "w": "https://c.biztoc.com/p/2cb98d31b9fc9cca/w.webp"
+            },
+            "tags": [
+                "stanlee",
+                "marvelcomics",
+                "marvel",
+                "stanman",
+                "siliconvalleycomic",
+                "avengersageofultron",
+                "chrishemsworth",
+                "avengerstower",
+                "asgardian",
+                "excelsior"
+            ],
+            "title": "Stan Lee's Favorite Marvel Cameo Is Likely Not The Moment You Think",
+            "url": "https://www.looper.com/1518555/stan-lee-favorite-marvel-cameo-avengers-age-of-ultron/?ref=biztoc.com"
+        },
+        {
+            "body": "How My Personal Brand Made Me Over Six Figures (And Why You Should Start One Today). My personal brand has made me over six figures. I’ve been able to: Here’s why you need to build a personal brand today. No one can compete with me being me. My unique interests, experiences, and knowledge create a…",
+            "created": "Sat, 17 Feb 2024 17:40:22 GMT",
+            "domain": "medium.com",
+            "favicon": "https://c.biztoc.com/f/medium.com.png",
+            "id": "62d1d8ade843ca67",
+            "img": {
+                "o": "https://c.biztoc.com/p/62d1d8ade843ca67/o.webp",
+                "s": "https://c.biztoc.com/p/62d1d8ade843ca67/s.webp",
+                "t": "https://c.biztoc.com/p/62d1d8ade843ca67/t.webp",
+                "w": "https://c.biztoc.com/p/62d1d8ade843ca67/w.webp"
+            },
+            "tags": [
+                "peterthiel"
+            ],
+            "title": "How My Personal Brand Made Me Over Six Figures (And Why You Should Start One Today)",
+            "url": "https://medium.com/swlh/how-my-personal-brand-made-me-over-six-figures-and-why-you-should-start-one-today-e6f2484a6ac0?ref=biztoc.com"
+        },
+        {
+            "body": "Former U.S. President and current GOP Presidential candidate Donald Trump addresses the press at Mar-a-Lago on February 16, 2024, in West Palm Beach, Florida. MUNICH, Germany — NATO members on Saturday weighed the U.S.' possible withdrawal from the military alliance if Donald Trump returns to the…",
+            "created": "Sat, 17 Feb 2024 17:40:05 GMT",
+            "domain": "cnbc.com",
+            "favicon": "https://c.biztoc.com/f/cnbc.com.png",
+            "id": "e507c503a4caf239",
+            "img": {
+                "o": "https://c.biztoc.com/p/e507c503a4caf239/o.webp",
+                "s": "https://c.biztoc.com/p/e507c503a4caf239/s.webp",
+                "t": "https://c.biztoc.com/p/e507c503a4caf239/t.webp",
+                "w": "https://c.biztoc.com/p/e507c503a4caf239/w.webp"
+            },
+            "tags": [
+                "donaldtrump",
+                "maralago",
+                "westpalmbeach",
+                "florida",
+                "munich",
+                "nato",
+                "hillaryclinton",
+                "trump",
+                "uscongress"
+            ],
+            "title": "Trump will quit NATO, Hillary Clinton says, as anxiety mounts over U.S. commitment to the alliance",
+            "url": "https://www.cnbc.com/2024/02/17/trump-will-quit-nato-hillary-clinton-says-as-us-commitment-in-question.html?ref=biztoc.com"
+        },
+        {
+            "body": "Law360 laid off 10% of its editorial staff, reports Natalie Korach of The Wrap. Korach writes, “Law360 is a subscription-based, legal news outlet delivering breaking news and analysis. It is operated by Portfolio Media, Inc., a subsidiary of LexisNexis, which acquired Portfolio Media in 2012. “In…",
+            "created": "Sat, 17 Feb 2024 17:36:11 GMT",
+            "domain": "talkingbiznews.com",
+            "favicon": "https://c.biztoc.com/f/talkingbiznews.com.png",
+            "id": "60e4f457fabfd13f",
+            "img": {
+                "o": "https://c.biztoc.com/p/60e4f457fabfd13f/o.webp",
+                "s": "https://c.biztoc.com/p/60e4f457fabfd13f/s.webp",
+                "t": "https://c.biztoc.com/p/60e4f457fabfd13f/t.webp",
+                "w": "https://c.biztoc.com/p/60e4f457fabfd13f/w.webp"
+            },
+            "tags": [
+                "law360",
+                "nataliekorach",
+                "wrap",
+                "portfoliomediainc",
+                "lexisnexis",
+                "portfoliomedia",
+                "newsguildofnewyork",
+                "law360union"
+            ],
+            "title": "Law360 laid off 10% of its editorial staff",
+            "url": "https://talkingbiznews.com/media-news/law360-laid-off-10-of-its-editorial-staff/?ref=biztoc.com"
+        },
+        {
+            "body": "These are the top 10 most read stories on The Defiant during the week of Feb. 12: Morpheus AI Launch Attracts $50M Within Hours Sam Altman-Backed Worldcoin Token Soars on Sora Launch To continue reading this as well as other DeFi and Web3 news, visit us at thedefiant.io",
+            "created": "Sat, 17 Feb 2024 17:36:08 GMT",
+            "domain": "thedefiant.io",
+            "favicon": "https://c.biztoc.com/f/thedefiant.io.png",
+            "id": "c294805b5bb7bd8d",
+            "img": {
+                "o": "https://c.biztoc.com/p/c294805b5bb7bd8d/o.webp",
+                "s": "https://c.biztoc.com/p/c294805b5bb7bd8d/s.webp",
+                "t": "https://c.biztoc.com/p/c294805b5bb7bd8d/t.webp",
+                "w": "https://c.biztoc.com/p/c294805b5bb7bd8d/w.webp"
+            },
+            "tags": [
+                "defiant",
+                "soralaunch"
+            ],
+            "title": "Our Most Read Stories This Week: WLD Soars 40%, LINK & Telefonica Deal, ETH Rally",
+            "url": "https://thedefiant.io/our-most-read-stories-this-week-wld-soars-40-link-and-telefonica-deal-eth-rally?ref=biztoc.com"
+        },
+        {
+            "body": "Bitcoin (CRYPTO: BTC) hit an important milestone in February, surpassing $50,000 for the first time since December 2021. The cryptocurrency has gained 120% over the past year as economic optimism led to a rotation into risk assets. More recently, the approval of spot Bitcoin exchange-traded funds…",
+            "created": "Sat, 17 Feb 2024 17:36:06 GMT",
+            "domain": "finance.yahoo.com",
+            "favicon": "https://c.biztoc.com/f/finance.yahoo.com.png",
+            "id": "954e8edd2ee537ff",
+            "img": {
+                "o": "https://c.biztoc.com/p/954e8edd2ee537ff/o.webp",
+                "s": "https://c.biztoc.com/p/954e8edd2ee537ff/s.webp",
+                "t": "https://c.biztoc.com/p/954e8edd2ee537ff/t.webp",
+                "w": "https://c.biztoc.com/p/954e8edd2ee537ff/w.webp"
+            },
+            "tags": [
+                "cathiewood",
+                "arkinvest",
+                "sp",
+                "bitcoin",
+                "fidelity",
+                "nonebitcoin",
+                "microstrategy",
+                "michaelsaylor",
+                "motleyfool"
+            ],
+            "title": "1 Superior Cryptocurrency to Buy Before It Soars 2,860%, According to Cathie Wood's Ark Invest",
+            "url": "https://finance.yahoo.com/news/1-superior-cryptocurrency-buy-soars-160300058.html?ref=biztoc.com"
+        },
+        {
+            "body": "Alexei Navalny’s spokesperson confirmed Saturday that the Russian opposition leader had died at a remote Arctic penal colony, saying he was “murdered,” but it was unclear where his body was as his family and friends searched for answers. Navalny’s death at age 47 has deprived the Russian…",
+            "created": "Sat, 17 Feb 2024 17:36:06 GMT",
+            "domain": "pbs.org",
+            "favicon": "https://c.biztoc.com/f/pbs.org.png",
+            "id": "417d0fadc4c19c45",
+            "img": {
+                "o": "https://c.biztoc.com/p/417d0fadc4c19c45/o.webp",
+                "s": "https://c.biztoc.com/p/417d0fadc4c19c45/s.webp",
+                "t": "https://c.biztoc.com/p/417d0fadc4c19c45/t.webp",
+                "w": "https://c.biztoc.com/p/417d0fadc4c19c45/w.webp"
+            },
+            "tags": [
+                "russian",
+                "arctic",
+                "vladimirputin",
+                "kremlin",
+                "navalny",
+                "russians",
+                "kirayarmysh",
+                "ivanzhdanov",
+                "kharp",
+                "moscow",
+                "mariapevchikh",
+                "ovdinfo",
+                "stpetersburg",
+                "alexeinavalny",
+                "volodymyrzelenskyy",
+                "davidcameron",
+                "munich",
+                "nt",
+                "dmitrypeskov",
+                "nigelgoulddavies",
+                "belarus",
+                "yulianavalnaya",
+                "putin",
+                "katiemariedavies",
+                "manchester"
+            ],
+            "title": "Alexei Navalny's death in prison confirmed by his team as his mother searches for his body",
+            "url": "https://www.pbs.org/newshour/world/alexei-navalnys-death-in-prison-confirmed-by-his-team-as-his-mother-searches-for-his-body?ref=biztoc.com"
+        },
+        {
+            "body": "Focus Features has bought international rights to Brady Corbet‘s “The Brutalist,” starring Adrien Brody, Felicity Jones, Guy Pearce and Joe Alwyn, Variety has learned. Corbet, who sits on the Berlinale jury, penned the film with Mona Fastvold (“The World to Come”), a Swedish filmmaker who is also…",
+            "created": "Sat, 17 Feb 2024 17:34:09 GMT",
+            "domain": "variety.com",
+            "favicon": "https://c.biztoc.com/f/variety.com.png",
+            "id": "c6cccbae87af9a9f",
+            "img": {
+                "o": "https://c.biztoc.com/p/c6cccbae87af9a9f/o.webp",
+                "s": "https://c.biztoc.com/p/c6cccbae87af9a9f/s.webp",
+                "t": "https://c.biztoc.com/p/c6cccbae87af9a9f/t.webp",
+                "w": "https://c.biztoc.com/p/c6cccbae87af9a9f/w.webp"
+            },
+            "tags": [
+                "focusfeatures",
+                "bradycorbets",
+                "adrienbrody",
+                "felicityjones",
+                "guypearce",
+                "joealwyn",
+                "variety",
+                "corbet",
+                "monafastvold",
+                "worldtocome",
+                "swedish",
+                "lászlótoth",
+                "erzsébet",
+                "lászló",
+                "harrisonleevanburen",
+                "raffeycassidy",
+                "isaachdebankolé",
+                "casinoroyale",
+                "alessandronivola",
+                "manysaintsofnewark",
+                "stacymartin",
+                "nymphomaniacvoli",
+                "emmalaird",
+                "kingstown",
+                "jonathanhyde",
+                "peterpolycarpou",
+                "evita",
+                "hungary",
+                "brutalist",
+                "lolcrawley"
+            ],
+            "title": "Focus Features Buys Brady Corbet’s ‘The Brutalist’ Starring Adrien Brody, Felicity Jones (EXCLUSIVE)",
+            "url": "https://variety.com/2024/film/global/focus-features-brady-corbet-the-brutalist-adrien-brody-felicity-jones-1235913883/?ref=biztoc.com"
+        },
+        {
+            "body": "Spain’s Morena, Mediacrest and Estrategia Audiovisual are joining forces with Italy’s Fandango on “The Sleeper,” a thriller doc following an alleged Caravaggio painting, directed by producer-helmer Álvaro Longoria. Rome-based Fandango also handles international sales rights. It is attending the…",
+            "created": "Sat, 17 Feb 2024 17:34:08 GMT",
+            "domain": "variety.com",
+            "favicon": "https://c.biztoc.com/f/variety.com.png",
+            "id": "8c751821ec0c7f32",
+            "img": {
+                "o": "https://c.biztoc.com/p/8c751821ec0c7f32/o.webp",
+                "s": "https://c.biztoc.com/p/8c751821ec0c7f32/s.webp",
+                "t": "https://c.biztoc.com/p/8c751821ec0c7f32/t.webp",
+                "w": "https://c.biztoc.com/p/8c751821ec0c7f32/w.webp"
+            },
+            "tags": [
+                "spain",
+                "morena",
+                "mediacrest",
+                "fandango",
+                "sleeper",
+                "caravaggio",
+                "álvarolongoria",
+                "rome",
+                "efm",
+                "gerardoolivares",
+                "ricardofernándezdeu",
+                "jorgecoll",
+                "italian",
+                "variety",
+                "javierbardem",
+                "spanishacademygoya",
+                "propagandagame"
+            ],
+            "title": "‘Sons of the Clouds’’ Alvaro Longoria Preps ‘The Sleeper’(EXCLUSIVE)",
+            "url": "https://variety.com/2024/film/global/alvaro-longoria-morena-fandango-mediacrest-1235913627/?ref=biztoc.com"
+        },
+        {
+            "body": "The possibility of interest rate cuts and ongoing inflationary pressures might draw investor attention. But nothing beats the excitement around artificial intelligence (AI). This has undoubtedly been the top market topic in the last year or so. With shares soaring 404% since the start of 2023,…",
+            "created": "Sat, 17 Feb 2024 17:34:07 GMT",
+            "domain": "finance.yahoo.com",
+            "favicon": "https://c.biztoc.com/f/finance.yahoo.com.png",
+            "id": "d0b13898e0da57d9",
+            "img": {
+                "o": "https://c.biztoc.com/p/d0b13898e0da57d9/o.webp",
+                "og": "https://c.biztoc.com/p/d0b13898e0da57d9/og.webp",
+                "ogs": "https://c.biztoc.com/p/d0b13898e0da57d9/ogs.webp",
+                "s": "https://c.biztoc.com/p/d0b13898e0da57d9/s.webp",
+                "t": "https://c.biztoc.com/p/d0b13898e0da57d9/t.webp",
+                "w": "https://c.biztoc.com/p/d0b13898e0da57d9/w.webp"
+            },
+            "tags": [
+                "nvidia",
+                "openai",
+                "alphabet",
+                "googlesearch",
+                "sundarpichai",
+                "googlecloud",
+                "googlephotos",
+                "gemini",
+                "suzannefrey",
+                "motleyfool",
+                "neilpatel",
+                "bestaistock"
+            ],
+            "title": "Here's Why Alphabet Is the Best AI Stock to Buy Right Now",
+            "url": "https://finance.yahoo.com/news/heres-why-alphabet-best-ai-100600603.html?ref=biztoc.com"
+        },
+        {
+            "body": "Layoffs have been all over the news. More than 150 tech companies alone have said farewell to nearly 40,000 employees, per layoffs.fyi. It’s bad, of course, to be one of those heading out the door. It may be especially hard if you are a highly educated worker, between ages 40 and 65, who has been…",
+            "created": "Sat, 17 Feb 2024 17:32:08 GMT",
+            "domain": "finance.yahoo.com",
+            "favicon": "https://c.biztoc.com/f/finance.yahoo.com.png",
+            "id": "2035bdab529d9cba",
+            "img": {
+                "o": "https://c.biztoc.com/p/2035bdab529d9cba/o.webp",
+                "s": "https://c.biztoc.com/p/2035bdab529d9cba/s.webp",
+                "t": "https://c.biztoc.com/p/2035bdab529d9cba/t.webp",
+                "w": "https://c.biztoc.com/p/2035bdab529d9cba/w.webp"
+            },
+            "tags": [
+                "ofersharone",
+                "sharone",
+                "kerryhannon",
+                "linkedin",
+                "yahoofinance",
+                "newworldofwork",
+                "nevertoooldtogetrich"
+            ],
+            "title": "Q&A: Older and unemployed? Here's how to overcome the stigma and move forward",
+            "url": "https://finance.yahoo.com/news/qa-older-and-unemployed-heres-how-to-overcome-the-stigma-and-move-forward-172834039.html?ref=biztoc.com"
+        },
+        {
+            "body": "Sparks didn’t initially fly between current Oscar nominee Ryan Gosling and Rachel McAdams — they clashed on The Notebook set, but the two started dating a year after the film’s release. Twenty years ago, the team behind The Notebook had no idea it would become a beloved romantic film that fans…",
+            "created": "Sat, 17 Feb 2024 17:30:11 GMT",
+            "domain": "hollywoodreporter.com",
+            "favicon": "https://c.biztoc.com/f/hollywoodreporter.com.png",
+            "id": "8cfa915ac8985bc7",
+            "img": {
+                "o": "https://c.biztoc.com/p/8cfa915ac8985bc7/o.webp",
+                "s": "https://c.biztoc.com/p/8cfa915ac8985bc7/s.webp",
+                "t": "https://c.biztoc.com/p/8cfa915ac8985bc7/t.webp",
+                "w": "https://c.biztoc.com/p/8cfa915ac8985bc7/w.webp"
+            },
+            "tags": [
+                "sparks",
+                "ryangosling",
+                "rachelmcadams",
+                "notebook",
+                "nicholassparks",
+                "nickcassavetes",
+                "jamesgarner",
+                "genarowlands",
+                "newline",
+                "robschneider",
+                "hotchick",
+                "britneyspears",
+                "britney",
+                "matthewbarry",
+                "thr",
+                "bradleycooper",
+                "jamesmarsden",
+                "cassavetes",
+                "markjohnson",
+                "tobyemmerich",
+                "broadway",
+                "hollywoodreporter"
+            ],
+            "title": "Hollywood Flashback: Ryan Gosling and Rachel McAdams Sizzled in ‘The Notebook’",
+            "url": "https://www.hollywoodreporter.com/movies/movie-features/the-notebook-at-twenty-filmmakers-reflect-1235823678/?ref=biztoc.com"
+        },
+        {
+            "body": "If you wanted to look at the struggles of the British high street, Cheltenham would not necessarily be the first place to start. There are no boarded-up shop windows or empty windswept streets, no surplus of betting offices and charity shops. Nor do outlets with the word “pound” in their titles…",
+            "created": "Sat, 17 Feb 2024 17:30:06 GMT",
+            "domain": "theguardian.com",
+            "favicon": "https://c.biztoc.com/f/theguardian.com.png",
+            "id": "48f08816398e5e38",
+            "img": {
+                "o": "https://c.biztoc.com/p/48f08816398e5e38/o.webp",
+                "s": "https://c.biztoc.com/p/48f08816398e5e38/s.webp",
+                "t": "https://c.biztoc.com/p/48f08816398e5e38/t.webp",
+                "w": "https://c.biztoc.com/p/48f08816398e5e38/w.webp"
+            },
+            "tags": [
+                "gloucestershire",
+                "cavendishhouse",
+                "cheltenham",
+                "promenade",
+                "kateashby",
+                "areyoubeingserved",
+                "maryportas",
+                "selfridges",
+                "cavendishhouses",
+                "mikeashley",
+                "johnlewis",
+                "newcastle",
+                "ashley",
+                "frasersgroup",
+                "sportsdirect",
+                "jackwills",
+                "portas",
+                "sharonwilliams",
+                "department",
+                "alexandrashulman",
+                "britishvogue",
+                "alexchalk"
+            ],
+            "title": "‘Big mausoleums of stuff’: Cheltenham is latest town to mourn loss of beloved department store",
+            "url": "https://www.theguardian.com/money/2024/feb/17/big-mausoleums-of-stuff-cheltenham-is-latest-town-to-mourn-loss-of-beloved-department-store?ref=biztoc.com"
+        },
+        {
+            "body": "Arcade airdrop is scheduled to take place next week and the digital collectible ecosystem is already looking forward to the giveaway. Arcade Airdrop to Go Live in Days Ethereum-based Decentralized Finance (DeFi) protocol for Non-Fungible Token (NFT) lending, Arcade, is looking forward to the next…",
+            "created": "Sat, 17 Feb 2024 17:28:10 GMT",
+            "domain": "coingape.com",
+            "favicon": "https://c.biztoc.com/f/coingape.com.png",
+            "id": "961058eb10d74405",
+            "img": {
+                "o": "https://c.biztoc.com/p/961058eb10d74405/o.webp",
+                "s": "https://c.biztoc.com/p/961058eb10d74405/s.webp",
+                "t": "https://c.biztoc.com/p/961058eb10d74405/t.webp",
+                "w": "https://c.biztoc.com/p/961058eb10d74405/w.webp"
+            },
+            "tags": [
+                "arcadeairdrop",
+                "golive",
+                "decentralizedfinance",
+                "nonfungibletoken",
+                "bitcoinordinals",
+                "arcade",
+                "pudgypenguins",
+                "lilpudgys",
+                "solana",
+                "madladsandtensorians",
+                "bitcoin",
+                "bitcoinpuppets",
+                "nodemonkes",
+                "rsic",
+                "arcd",
+                "ethereum",
+                "robertmasiello",
+                "yugalabs",
+                "boredapeyachtclub",
+                "bayc",
+                "proof",
+                "btcnftfarmers"
+            ],
+            "title": "Arcade To Airdrop 3M ARCD To ETH, SOL, and BTC NFT Farmers",
+            "url": "https://coingape.com/arcade-airdrop-to-eth-sol-and-btc-nft-farmers-teased/?ref=biztoc.com"
+        },
+        {
+            "body": "The path may be bumpy, but the inflation outlook could be bright This year could mark a turn of events for inflation, despite overall CPI ticking higher in recent months. Inflation experienced a 3.4% rise in December 2023, and January’s overall CPI data showed a month-over-month increase of 0.3%,…",
+            "created": "Sat, 17 Feb 2024 17:22:20 GMT",
+            "domain": "investorplace.com",
+            "favicon": "https://c.biztoc.com/f/investorplace.com.png",
+            "id": "fa1a78a8c6789522",
+            "img": {
+                "o": "https://c.biztoc.com/p/fa1a78a8c6789522/o.webp",
+                "s": "https://c.biztoc.com/p/fa1a78a8c6789522/s.webp",
+                "t": "https://c.biztoc.com/p/fa1a78a8c6789522/t.webp",
+                "w": "https://c.biztoc.com/p/fa1a78a8c6789522/w.webp"
+            },
+            "tags": [
+                "federalreserve",
+                "imf",
+                "federalreserves",
+                "pce",
+                "ukrainewar",
+                "nar",
+                "chenzhao",
+                "corelogic",
+                "selmahepp",
+                "jeromepowell",
+                "billadams",
+                "chrismacdonald",
+                "investorplacecom"
+            ],
+            "title": "Inflation Outlook: Continuing to Cool Down or Picking Back Up Again?",
+            "url": "https://investorplace.com/2024/02/inflation-outlook-continuing-to-cool-down-or-picking-back-up-again/?ref=biztoc.com"
+        },
+        {
+            "body": "These three high-dividend yielding stocks could yield retirement riches for long-term investors The best retirement portfolios, even those with heavy positioning in fixed income assets like bonds, may need rebalancing from time to time. And, as older Americans fear financial uncertainty,…",
+            "created": "Sat, 17 Feb 2024 17:22:18 GMT",
+            "domain": "investorplace.com",
+            "favicon": "https://c.biztoc.com/f/investorplace.com.png",
+            "id": "45a71dcb97d8ba51",
+            "img": {
+                "o": "https://c.biztoc.com/p/45a71dcb97d8ba51/o.webp",
+                "s": "https://c.biztoc.com/p/45a71dcb97d8ba51/s.webp",
+                "t": "https://c.biztoc.com/p/45a71dcb97d8ba51/t.webp",
+                "w": "https://c.biztoc.com/p/45a71dcb97d8ba51/w.webp"
+            },
+            "tags": [
+                "federalreserve",
+                "diamondbackenergys",
+                "diamondback",
+                "q3",
+                "importantly",
+                "diamondbackenergy",
+                "permianbasin",
+                "travisstice",
+                "lancerobertson",
+                "conocophillips",
+                "exxon",
+                "pioneer",
+                "crowncastle",
+                "cci",
+                "sp",
+                "chrismacdonald",
+                "investorplacecom"
+            ],
+            "title": "Retirement Riches: 3 Stocks That Can Beat Bonds for Income",
+            "url": "https://investorplace.com/2024/02/retirement-riches-3-stocks-that-can-beat-bonds-for-income/?ref=biztoc.com"
+        },
+        {
+            "body": "There are currently over 169,000 active duty military in the Israeli Armed Forces. In light of the October 7, 2023 attack by the terrorist group Hamas that left more than 1,400 Israelis dead, Israel has prepared for what was first thought might be the longest war ever. They initially drafted…",
+            "created": "Sat, 17 Feb 2024 17:22:15 GMT",
+            "domain": "247wallst.com",
+            "favicon": "https://c.biztoc.com/f/247wallst.com.png",
+            "id": "ee3d4702e1709d0e",
+            "img": {
+                "o": "https://c.biztoc.com/p/ee3d4702e1709d0e/o.webp",
+                "s": "https://c.biztoc.com/p/ee3d4702e1709d0e/s.webp",
+                "t": "https://c.biztoc.com/p/ee3d4702e1709d0e/t.webp",
+                "w": "https://c.biztoc.com/p/ee3d4702e1709d0e/w.webp"
+            },
+            "tags": [
+                "israeliarmedforces",
+                "october7",
+                "hamas",
+                "israelis",
+                "israel",
+                "gaza",
+                "israeli",
+                "militaryfactory",
+                "israelidefenseforce",
+                "nato",
+                "galilace",
+                "ukraine",
+                "southsudan",
+                "armselstrikertype",
+                "southafrica",
+                "caliberfeed",
+                "m82",
+                "388lapuamagnum",
+                "winchestermagnum",
+                "remingtonmagnum",
+                "berettamodel1951",
+                "beretta",
+                "single",
+                "browninghipower",
+                "belgium",
+                "springfield",
+                "colt",
+                "commandotypeassault",
+                "coltm16",
+                "coltm4"
+            ],
+            "title": "Every Gun Used by the Modern Israeli Military",
+            "url": "https://247wallst.com/special-report/2024/02/17/every-gun-used-by-the-modern-israeli-military/?ref=biztoc.com"
+        },
+        {
+            "body": "We all love cookies. They’re tasty, crumbly, and delicious. Some cookies are as big as your head. Other cookies are tiny, like your thumb. There are chocolate chip cookies. Also, there are shortbread cookies. Peanut butter is also a popular flavor. Then, there are chocolate-covered cookies.…",
+            "created": "Sat, 17 Feb 2024 17:22:13 GMT",
+            "domain": "247wallst.com",
+            "favicon": "https://c.biztoc.com/f/247wallst.com.png",
+            "id": "bd7d8ca98a6f32ad",
+            "img": {
+                "o": "https://c.biztoc.com/p/bd7d8ca98a6f32ad/o.webp",
+                "s": "https://c.biztoc.com/p/bd7d8ca98a6f32ad/s.webp",
+                "t": "https://c.biztoc.com/p/bd7d8ca98a6f32ad/t.webp",
+                "w": "https://c.biztoc.com/p/bd7d8ca98a6f32ad/w.webp"
+            },
+            "tags": [
+                "amazon",
+                "walmart",
+                "newton",
+                "chewystrawberry",
+                "cherrystrawberry",
+                "strawberrypuree",
+                "canola",
+                "keeblercoconutdreams",
+                "fudgecoconutcaramel",
+                "caramel",
+                "fda",
+                "nutritionlabel",
+                "nt",
+                "madeleines",
+                "lornadooneshortbread",
+                "famousamos",
+                "reese",
+                "chipsahoy",
+                "mininillawafers",
+                "smartfinal",
+                "chickadvisor",
+                "milksfavoritecookie",
+                "ewg",
+                "goldenoreo",
+                "nabisco",
+                "girlscoutcookies",
+                "girlscoutsofamerica",
+                "girlscouts",
+                "thinmints",
+                "oreomintflavorcreme"
+            ],
+            "title": "17 Cookie Brands to Avoid",
+            "url": "https://247wallst.com/consumer-products/2024/02/17/17-cookie-brands-to-avoid/?ref=biztoc.com"
+        },
+        {
+            "body": "White bread. There are few things as divisive in the grocery store as white bread whether you avoid it for health reasons or insist on buying it for your recipes or sandwiches. The merging of white bread with American culture has become as normal to us as military demonstrations at football games.…",
+            "created": "Sat, 17 Feb 2024 17:22:12 GMT",
+            "domain": "247wallst.com",
+            "favicon": "https://c.biztoc.com/f/247wallst.com.png",
+            "id": "4ce66bc942a017c6",
+            "img": {
+                "o": "https://c.biztoc.com/p/4ce66bc942a017c6/o.webp",
+                "s": "https://c.biztoc.com/p/4ce66bc942a017c6/s.webp",
+                "t": "https://c.biztoc.com/p/4ce66bc942a017c6/t.webp",
+                "w": "https://c.biztoc.com/p/4ce66bc942a017c6/w.webp"
+            },
+            "tags": [
+                "background",
+                "whitebread",
+                "ancientegyptians",
+                "worldwarii",
+                "topbreadamazon",
+                "amazon",
+                "saralees",
+                "wonderbread",
+                "heartywhite",
+                "classic",
+                "pepperidgefarm",
+                "texastoast",
+                "bimbo",
+                "largewhitebread",
+                "potatobread",
+                "leetexastoast",
+                "artesanobrioche",
+                "naturesown",
+                "bimbosoft",
+                "softwhitebread",
+                "largewhite",
+                "topbreadloaf",
+                "walmart",
+                "wmt",
+                "targetnysetgt",
+                "pantry",
+                "blackbreadco",
+                "whitebreadbrands",
+                "avoid"
+            ],
+            "title": "15 White Bread Brands to Avoid",
+            "url": "https://247wallst.com/special-report/2024/02/17/15-white-bread-brands-to-avoid/?ref=biztoc.com"
+        },
+        {
+            "body": "Disclosure: Our goal is to feature products and services that we think you'll find interesting and useful. If you purchase them, Entrepreneur may get a small share of the revenue from the sale from our commerce partners. Businesses need websites to be discoverable by potential clients,…",
+            "created": "Sat, 17 Feb 2024 17:22:06 GMT",
+            "domain": "entrepreneur.com",
+            "favicon": "https://c.biztoc.com/f/entrepreneur.com.png",
+            "id": "bd7f391e1972da9b",
+            "img": {
+                "o": "https://c.biztoc.com/p/bd7f391e1972da9b/o.webp",
+                "s": "https://c.biztoc.com/p/bd7f391e1972da9b/s.webp",
+                "t": "https://c.biztoc.com/p/bd7f391e1972da9b/t.webp",
+                "w": "https://c.biztoc.com/p/bd7f391e1972da9b/w.webp"
+            },
+            "tags": [
+                "doroyalwebhosting",
+                "reg",
+                "doroyal",
+                "wordpress",
+                "php",
+                "trustpilot"
+            ],
+            "title": "This Website Hosting Lifetime Subscription Is $40 Through February 19",
+            "url": "https://www.entrepreneur.com/science-technology/this-website-hosting-lifetime-subscription-is-40-through/469819?ref=biztoc.com"
+        },
+        {
+            "body": "Bitcoin is still trading comfortably above the $50,000 mark, which it soared past at the start of the week. The biggest digital coin by market cap is now priced at $51,959, having risen by more than 10% over seven days. The asset started off strong when it hit $50K on Monday for the first time…",
+            "created": "Sat, 17 Feb 2024 17:20:09 GMT",
+            "domain": "decrypt.co",
+            "favicon": "https://c.biztoc.com/f/decrypt.co.png",
+            "id": "909c1b2cf08d4fb5",
+            "img": {
+                "o": "https://c.biztoc.com/p/909c1b2cf08d4fb5/o.webp",
+                "og": "https://c.biztoc.com/p/909c1b2cf08d4fb5/og.webp",
+                "ogs": "https://c.biztoc.com/p/909c1b2cf08d4fb5/ogs.webp",
+                "s": "https://c.biztoc.com/p/909c1b2cf08d4fb5/s.webp",
+                "t": "https://c.biztoc.com/p/909c1b2cf08d4fb5/t.webp",
+                "w": "https://c.biztoc.com/p/909c1b2cf08d4fb5/w.webp"
+            },
+            "tags": [
+                "bitcoin",
+                "uslabordepartment",
+                "ethereum",
+                "binancebnbcoin",
+                "ryanozawa"
+            ],
+            "title": "This Week in Coins: Bitcoin Closes Week Strong, Simmering Above $51K",
+            "url": "https://decrypt.co/217880/this-week-in-coins-bitcoin-above-50000?ref=biztoc.com"
+        },
+        {
+            "body_preview": "",
+            "created": "Sat, 17 Feb 2024 17:20:07 GMT",
+            "domain": "youtube.com",
+            "favicon": "https://c.biztoc.com/f/youtube.com.png",
+            "id": "fd4697a02201d79a",
+            "img": {
+                "o": "https://c.biztoc.com/p/fd4697a02201d79a/o.webp",
+                "og": "https://c.biztoc.com/p/fd4697a02201d79a/og.webp",
+                "ogs": "https://c.biztoc.com/p/fd4697a02201d79a/ogs.webp",
+                "s": "https://c.biztoc.com/p/fd4697a02201d79a/s.webp",
+                "t": "https://c.biztoc.com/p/fd4697a02201d79a/t.webp",
+                "w": "https://c.biztoc.com/p/fd4697a02201d79a/w.webp"
+            },
+            "tags": [],
+            "title": "Can an 'AI boyfriend' be more desirable than a human? I BBC News",
+            "url": "https://www.youtube.com/watch?v=lmbhEZRfRbQ&ref=biztoc.com"
+        },
+        {
+            "body": "Taiwan is set to bring in Indian migrant workers to expand its workforce as a shortage of labour affects the East Asian country’s key sectors. A major semiconductor producer, Taiwan is host to around 700,000 migrant workers who come mostly from Vietnam, Indonesia, the Philippines and Thailand.…",
+            "created": "Sat, 17 Feb 2024 17:18:11 GMT",
+            "domain": "asiafinancial.com",
+            "favicon": "https://c.biztoc.com/f/asiafinancial.com.png",
+            "id": "b8f16ab12575ed2f",
+            "img": {
+                "o": "https://c.biztoc.com/p/b8f16ab12575ed2f/o.webp",
+                "s": "https://c.biztoc.com/p/b8f16ab12575ed2f/s.webp",
+                "t": "https://c.biztoc.com/p/b8f16ab12575ed2f/t.webp",
+                "w": "https://c.biztoc.com/p/b8f16ab12575ed2f/w.webp"
+            },
+            "tags": [
+                "taiwan",
+                "eastasian",
+                "vietnam",
+                "indonesia",
+                "philippines",
+                "thailand",
+                "ministryoflabour",
+                "taipei",
+                "delhi",
+                "taiwanese",
+                "vishakhasaxena",
+                "dpp",
+                "keytech",
+                "chips",
+                "xiaomiindiasmodi",
+                "asiafinancial"
+            ],
+            "title": "Taiwan to Bring in Indian Migrant Workers Amid Labour Shortage",
+            "url": "https://www.asiafinancial.com/taiwan-to-bring-in-indian-migrant-workers-amid-labour-shortage?ref=biztoc.com"
+        },
+        {
+            "body": "“IF IT HAPPENED, if they decided to kill me, it means that we are unbelievably strong at that moment,” Alexei Navalny once told an interviewer, on one of the many occasions he was asked about being assassinated. The answer was vintage Navalny: ever hopeful in the face of existential terror. But…",
+            "created": "Sat, 17 Feb 2024 17:18:10 GMT",
+            "domain": "economist.com",
+            "favicon": "https://c.biztoc.com/f/economist.com.png",
+            "id": "e73737261d83f3e3",
+            "img": {
+                "o": "https://c.biztoc.com/p/e73737261d83f3e3/o.webp",
+                "s": "https://c.biztoc.com/p/e73737261d83f3e3/s.webp",
+                "t": "https://c.biztoc.com/p/e73737261d83f3e3/t.webp",
+                "w": "https://c.biztoc.com/p/e73737261d83f3e3/w.webp"
+            },
+            "tags": [
+                "alexeinavalny",
+                "arctic",
+                "vladimirputin",
+                "russian",
+                "ukraine",
+                "oleksandrsyrskyi",
+                "avdiivka",
+                "republicans",
+                "russians",
+                "mikhailzygar",
+                "berlin",
+                "moscow",
+                "stpetersburg",
+                "stalin",
+                "alexanderbaunov",
+                "kremlin",
+                "mrnavalny",
+                "ovdinfo",
+                "lithuania",
+                "borisnemtsov",
+                "vladimirkaramurza",
+                "nemtsov",
+                "ilyayashin",
+                "yulianavalnaya",
+                "borisnadezhdin",
+                "noonagainst",
+                "gregyudin",
+                "meduza"
+            ],
+            "title": "Russia’s opposition has lost a crucial leader but gained a martyr",
+            "url": "https://www.economist.com/europe/2024/02/17/russias-opposition-has-lost-a-crucial-leader-but-gained-a-martyr?ref=biztoc.com"
+        },
+        {
+            "body": "I am 66 years old, still working and with very good health insurance. My company does not have a 401(k). I do have an individual retirement account (IRA) with approximately $120,000 invested. I contribute $272 per month, yet my program fee is $136 per month. That’s 50% of my contribution. Am I…",
+            "created": "Sat, 17 Feb 2024 17:18:08 GMT",
+            "domain": "aol.com",
+            "favicon": "https://c.biztoc.com/f/aol.com.png",
+            "id": "2b826aae251c041e",
+            "img": {
+                "o": "https://c.biztoc.com/p/2b826aae251c041e/o.webp",
+                "s": "https://c.biztoc.com/p/2b826aae251c041e/s.webp",
+                "t": "https://c.biztoc.com/p/2b826aae251c041e/t.webp",
+                "w": "https://c.biztoc.com/p/2b826aae251c041e/w.webp"
+            },
+            "tags": [
+                "brandonrenfro",
+                "cfp",
+                "smartadvisormatch",
+                "noneplanning",
+                "socialsecurity",
+                "mycontribution"
+            ],
+            "title": "Ask an Advisor: ‘Am I Getting Fleeced?' I'm 66, Contributing $272 Per Month to an IRA and Paying $136 Monthly in Fees. That's 50% of My Contribution",
+            "url": "https://www.aol.com/ask-advisor-am-getting-fleeced-162130888.html?ref=biztoc.com"
+        },
+        {
+            "body": "I’m holding $300,000 in cash that I plan to put into a new home. With the market as it is, I’m putting off that purchase for six to nine months. I’m 66 years old, single and plan to retire within the next 12 months. What should I do with the cash until I purchase? When it comes to determining…",
+            "created": "Sat, 17 Feb 2024 17:18:08 GMT",
+            "domain": "aol.com",
+            "favicon": "https://c.biztoc.com/f/aol.com.png",
+            "id": "34a151870653031e",
+            "img": {
+                "o": "https://c.biztoc.com/p/34a151870653031e/o.webp",
+                "s": "https://c.biztoc.com/p/34a151870653031e/s.webp",
+                "t": "https://c.biztoc.com/p/34a151870653031e/t.webp",
+                "w": "https://c.biztoc.com/p/34a151870653031e/w.webp"
+            },
+            "tags": [
+                "access",
+                "fdic",
+                "ncua",
+                "treasury",
+                "treasurydirectgov",
+                "noneone"
+            ],
+            "title": "Ask An Advisor: Where Should I Stash Short-Term Savings?",
+            "url": "https://www.aol.com/ask-advisor-where-stash-short-152009124.html?ref=biztoc.com"
+        },
+        {
+            "body": "Starbucks has opened its first cafe designed to give customers with disabilities a “more accessible store experience,” the company announced Friday in a news release. The move is part of a wider inclusivity initiative that Starbucks has undertaken to design easily navigable retail spaces for all…",
+            "created": "Sat, 17 Feb 2024 17:18:07 GMT",
+            "domain": "aol.com",
+            "favicon": "https://c.biztoc.com/f/aol.com.png",
+            "id": "3b0fd4f5a4961565",
+            "img": {
+                "o": "https://c.biztoc.com/p/3b0fd4f5a4961565/o.webp",
+                "s": "https://c.biztoc.com/p/3b0fd4f5a4961565/s.webp",
+                "t": "https://c.biztoc.com/p/3b0fd4f5a4961565/t.webp",
+                "w": "https://c.biztoc.com/p/3b0fd4f5a4961565/w.webp"
+            },
+            "tags": [
+                "starbucks",
+                "mariatown",
+                "walmart",
+                "counters",
+                "disabilitiesact",
+                "cardano",
+                "tonycoelho",
+                "sbux"
+            ],
+            "title": "Here’s what the Starbucks of the future looks like",
+            "url": "https://www.aol.com/starbucks-future-looks-163024055.html?ref=biztoc.com"
+        },
+        {
+            "body": "French President Emmanuel Macron says recognizing a Palestinian state is not a “taboo” for France, as international frustration grows with Israel’s actions in the Palestinian territories. France and the EU have long supported a two-state solution in the Mideast, but as part of a negotiated…",
+            "created": "Sat, 17 Feb 2024 17:18:07 GMT",
+            "domain": "fortune.com",
+            "favicon": "https://c.biztoc.com/f/fortune.com.png",
+            "id": "2e70864900fe27e8",
+            "img": {
+                "o": "https://c.biztoc.com/p/2e70864900fe27e8/o.webp",
+                "s": "https://c.biztoc.com/p/2e70864900fe27e8/s.webp",
+                "t": "https://c.biztoc.com/p/2e70864900fe27e8/t.webp",
+                "w": "https://c.biztoc.com/p/2e70864900fe27e8/w.webp"
+            },
+            "tags": [
+                "emmanuelmacron",
+                "palestinian",
+                "israel",
+                "mideast",
+                "hamas",
+                "gaza",
+                "jordan",
+                "palestinians",
+                "israelis",
+                "unsecuritycouncil",
+                "securitycouncil",
+                "israeli",
+                "rafah",
+                "egypt",
+                "davidcameron",
+                "benjaminnetanyahu"
+            ],
+            "title": "Macron: Recognizing a Palestinian state 'not a taboo for France'",
+            "url": "https://fortune.com/2024/02/17/emmanuel-macron-palestinian-state-not-taboo-for-france-gaza-israel/?ref=biztoc.com"
+        },
+        {
+            "body": "Russia’s nuclear space weapon a risk for all, says German Space Command chief “Nobody would survive an action like that,” Major General Michael Traut said. While it sounds like science fiction, it isn't yet clear whether such a space weapon is a ground-based missile or a targeted nuclear-powered…",
+            "created": "Sat, 17 Feb 2024 17:16:07 GMT",
+            "domain": "politico.eu",
+            "favicon": "https://c.biztoc.com/f/politico.eu.png",
+            "id": "40dc0b8dcee73e1b",
+            "img": {
+                "o": "https://c.biztoc.com/p/40dc0b8dcee73e1b/o.webp",
+                "s": "https://c.biztoc.com/p/40dc0b8dcee73e1b/s.webp",
+                "t": "https://c.biztoc.com/p/40dc0b8dcee73e1b/t.webp",
+                "w": "https://c.biztoc.com/p/40dc0b8dcee73e1b/w.webp"
+            },
+            "tags": [
+                "germanspacecommand",
+                "michaeltraut",
+                "istockmunich",
+                "spacecommand",
+                "russian",
+                "unitednations",
+                "ludwigmöller",
+                "unitedkingdom",
+                "ukraine",
+                "northkorea",
+                "iran",
+                "johnkirby"
+            ],
+            "title": "Russia’s nuclear space weapon a risk for all, says German Space Command chief",
+            "url": "https://www.politico.eu/article/russia-nuclear-space-weapon-a-risk-for-all-says-germany-space-command-chief/?ref=biztoc.com"
+        },
+        {
+            "body": "Texas Attorney General Ken Paxton has said the Lone Star State wouldn't have joined the American Union had Texans known about \"the federal government not protecting our border\" from irregular migration. The series of remarks from Paxton, a Republican, were branded dangerous and vengeful by a…",
+            "created": "Sat, 17 Feb 2024 17:16:05 GMT",
+            "domain": "newsweek.com",
+            "favicon": "https://c.biztoc.com/f/newsweek.com.png",
+            "id": "48545517dce3fb23",
+            "img": {
+                "o": "https://c.biztoc.com/p/48545517dce3fb23/o.webp",
+                "s": "https://c.biztoc.com/p/48545517dce3fb23/s.webp",
+                "t": "https://c.biztoc.com/p/48545517dce3fb23/t.webp",
+                "w": "https://c.biztoc.com/p/48545517dce3fb23/w.webp"
+            },
+            "tags": [
+                "kenpaxton",
+                "americanunion",
+                "texans",
+                "paxton",
+                "joepagsshow",
+                "dfwmorningnews",
+                "truthwithlisaboothe",
+                "texan",
+                "supremecourt",
+                "mexico",
+                "gregabbott",
+                "donaldtrump",
+                "nationalguard",
+                "abbott",
+                "philipshulman",
+                "pacamericanbridge",
+                "lisaboothe",
+                "americancivilwar"
+            ],
+            "title": "Texas could regret joining United States, Republican suggests",
+            "url": "https://www.newsweek.com/texas-could-regret-joining-united-states-republican-1870931?ref=biztoc.com"
+        },
+        {
+            "body": "This article examines the climate data for Bucyrus, Ohio, specifically focusing on the number of days per year with temperatures exceeding 90 degrees Fahrenheit (32 degrees Celsius), and compares historical data with contemporary media representations and projections. Historical Climate Data for…",
+            "created": "Sat, 17 Feb 2024 17:14:10 GMT",
+            "domain": "tftc.io",
+            "favicon": "https://c.biztoc.com/f/tftc.io.png",
+            "id": "01c5f32ff9b6d1f0",
+            "img": {
+                "o": "https://c.biztoc.com/p/01c5f32ff9b6d1f0/o.webp",
+                "s": "https://c.biztoc.com/p/01c5f32ff9b6d1f0/s.webp",
+                "t": "https://c.biztoc.com/p/01c5f32ff9b6d1f0/t.webp",
+                "w": "https://c.biztoc.com/p/01c5f32ff9b6d1f0/w.webp"
+            },
+            "tags": [
+                "bucyrus",
+                "ohio",
+                "nationwidetrends",
+                "fahrenheit"
+            ],
+            "title": "Bucyrus' Climate Reality vs. Media Projections",
+            "url": "https://tftc.io/bucyrus-climate-reality-vs-media-projections/?ref=biztoc.com"
+        },
+        {
+            "body": "Former South Carolina Governor Nikki Haley accused Donald Trump of plotting to use the Republican National Committee to bankroll his stratospheric legal costs, which jumped even higher Friday after a judge slapped the former president with a $355 million judgment in his New York civil fraud case.…",
+            "created": "Sat, 17 Feb 2024 17:14:07 GMT",
+            "domain": "vanityfair.com",
+            "favicon": "https://c.biztoc.com/f/vanityfair.com.png",
+            "id": "a9767a9d5c5bc1e2",
+            "img": {
+                "o": "https://c.biztoc.com/p/a9767a9d5c5bc1e2/o.webp",
+                "s": "https://c.biztoc.com/p/a9767a9d5c5bc1e2/s.webp",
+                "t": "https://c.biztoc.com/p/a9767a9d5c5bc1e2/t.webp",
+                "w": "https://c.biztoc.com/p/a9767a9d5c5bc1e2/w.webp"
+            },
+            "tags": [
+                "southcarolina",
+                "nikkihaley",
+                "donaldtrump",
+                "rnc",
+                "kaitlancollins",
+                "haley",
+                "arthurengoron",
+                "trump",
+                "politico",
+                "michaelwhatley",
+                "ronnamcdaniel",
+                "mcdaniel",
+                "laratrump",
+                "chrislacivita",
+                "newsmax",
+                "donaldjtrump",
+                "trumpssaveamerica",
+                "protrumppatriots"
+            ],
+            "title": "Nikki Haley Accuses Trump of Plotting to Use RNC as a “Piggy Bank” for Rising Legal Costs",
+            "url": "https://www.vanityfair.com/news/nikki-haley-trump-rnc-piggy-bank?ref=biztoc.com"
+        },
+        {
+            "body": "Looking for something to watch this weekend? A memorable Western flop starring Liam Neeson and Pierce Brosnan has surged into the Netflix top 10 chart 18 years after its theatrical release. It's worth a shot in the dark, we reckon! #western #movies #action #netflix #streaming…",
+            "created": "Sat, 17 Feb 2024 17:12:42 GMT",
+            "domain": "youtube.com",
+            "favicon": "https://c.biztoc.com/f/youtube.com.png",
+            "id": "ffc271e76c511b71",
+            "img": {
+                "o": "https://c.biztoc.com/p/ffc271e76c511b71/o.webp",
+                "s": "https://c.biztoc.com/p/ffc271e76c511b71/s.webp",
+                "t": "https://c.biztoc.com/p/ffc271e76c511b71/t.webp",
+                "w": "https://c.biztoc.com/p/ffc271e76c511b71/w.webp"
+            },
+            "tags": [
+                "liamneeson",
+                "piercebrosnan",
+                "netflix",
+                "screenrants",
+                "tiktok",
+                "ryannorthrup",
+                "scriptvoice",
+                "gdukat"
+            ],
+            "title": "Liam Neeson Flop gets Second Shot on Netflix",
+            "url": "https://www.youtube.com/watch?v=YQj3zN6rjCs&ref=biztoc.com"
+        },
+        {
+            "body_preview": "",
+            "created": "Sat, 17 Feb 2024 17:12:37 GMT",
+            "domain": "wsj.com",
+            "favicon": "https://c.biztoc.com/f/wsj.com.png",
+            "id": "656fa0b197dc29fd",
+            "img": null,
+            "tags": [],
+            "title": "Displaced Gazans Brace for Possible Ground Assault on Border Town",
+            "url": "https://www.wsj.com/articles/displaced-gazans-brace-for-possible-ground-assault-on-border-town-96d9f1a8?ref=biztoc.com"
+        },
+        {
+            "body_preview": "",
+            "created": "Sat, 17 Feb 2024 17:12:37 GMT",
+            "domain": "reuters.com",
+            "favicon": "https://c.biztoc.com/f/reuters.com.png",
+            "id": "ecc1c405a08239b3",
+            "img": null,
+            "tags": [],
+            "title": "Zelenskiy urges allies to plug 'artificial' weapons shortage to stop Putin",
+            "url": "https://www.reuters.com/world/europe/zelenskiy-urges-allies-plug-artificial-weapons-shortage-stop-putin-2024-02-17/?ref=biztoc.com"
+        },
+        {
+            "body": "Last Monday, I discovered Walter the Producer, a Boston-based indie musician. His music isn’t on any of the playlists I follow, and he has less than 150,000 monthly listeners on Spotify. If I hadn’t searched for his song on Shazam while I was 2,000 miles away from home in a brewery in Phoenix, I…",
+            "created": "Sat, 17 Feb 2024 17:12:06 GMT",
+            "domain": "techcrunch.com",
+            "favicon": "https://c.biztoc.com/f/techcrunch.com.png",
+            "id": "e4548b0006a48a28",
+            "img": {
+                "o": "https://c.biztoc.com/p/e4548b0006a48a28/o.webp",
+                "s": "https://c.biztoc.com/p/e4548b0006a48a28/s.webp",
+                "t": "https://c.biztoc.com/p/e4548b0006a48a28/t.webp",
+                "w": "https://c.biztoc.com/p/e4548b0006a48a28/w.webp"
+            },
+            "tags": [
+                "walterproducer",
+                "boston",
+                "spotify",
+                "shazam",
+                "phoenix",
+                "producer",
+                "tiktok",
+                "pitchfork",
+                "rollingstone",
+                "groover",
+                "romainpalmieri",
+                "oneragtime",
+                "mozzaangels",
+                "gigfinesse"
+            ],
+            "title": "Groover bridges the promotion gap for independent artists",
+            "url": "https://techcrunch.com/2024/02/17/groover-independent-artists-song-discovery/?ref=biztoc.com"
+        },
+        {
+            "body": "President Volodymyr Zelenskiy signed separate long-term security deals with German Chancellor Olaf Scholz and French President Emmanuel Macron as Ukraine’s worsening artillery shortage threatens to force a further rationing of shells. #politics #zelensky #ukraine #russia #france #germany The…",
+            "created": "Sat, 17 Feb 2024 17:08:06 GMT",
+            "domain": "youtube.com",
+            "favicon": "https://c.biztoc.com/f/youtube.com.png",
+            "id": "8f38e6d5f006c80f",
+            "img": {
+                "o": "https://c.biztoc.com/p/8f38e6d5f006c80f/o.webp",
+                "s": "https://c.biztoc.com/p/8f38e6d5f006c80f/s.webp",
+                "t": "https://c.biztoc.com/p/8f38e6d5f006c80f/t.webp",
+                "w": "https://c.biztoc.com/p/8f38e6d5f006c80f/w.webp"
+            },
+            "tags": [
+                "volodymyrzelenskiy",
+                "olafscholz",
+                "emmanuelmacron",
+                "ukraine",
+                "berlin",
+                "groupofsevennations",
+                "zelenskiy",
+                "subscribe",
+                "bloombergoriginals",
+                "bloombergquicktake",
+                "breakingnewson"
+            ],
+            "title": "Ukraine's Zelenskiy Gets Long-Term French, German Security Pledges",
+            "url": "https://www.youtube.com/watch?v=Y2pxsOf01aU&ref=biztoc.com"
+        },
+        {
+            "body": "Step aside, Na'vi version of Sigourney Weaver: A new blue avatar is becoming famous. If you apply to one of several large corporations today, you might see a blue guy that looks like the Walmart version of Disney’s wide-eyed style of animation. No, it’s not a company mascot; it’s actually part of…",
+            "created": "Sat, 17 Feb 2024 17:06:14 GMT",
+            "domain": "finance.yahoo.com",
+            "favicon": "https://c.biztoc.com/f/finance.yahoo.com.png",
+            "id": "8f59b1de535645c0",
+            "img": {
+                "o": "https://c.biztoc.com/p/8f59b1de535645c0/o.webp",
+                "og": "https://c.biztoc.com/p/8f59b1de535645c0/og.webp",
+                "ogs": "https://c.biztoc.com/p/8f59b1de535645c0/ogs.webp",
+                "s": "https://c.biztoc.com/p/8f59b1de535645c0/s.webp",
+                "t": "https://c.biztoc.com/p/8f59b1de535645c0/t.webp",
+                "w": "https://c.biztoc.com/p/8f59b1de535645c0/w.webp"
+            },
+            "tags": [
+                "navi",
+                "sigourneyweaver",
+                "walmart",
+                "disney",
+                "paradoxai",
+                "mcdonalds",
+                "wendys",
+                "cvshealth",
+                "olivegarden",
+                "emanualmaiberg",
+                "joshbersincompany",
+                "ams",
+                "danschawbel",
+                "olivia",
+                "paradox",
+                "heathermyers",
+                "traitify",
+                "myers",
+                "adamgodson",
+                "reddit",
+                "greatresignation",
+                "dardenrestaurants",
+                "fortune",
+                "fortunecom"
+            ],
+            "title": "‘Man I just want a dishwasher job’: Why are Olive Garden and FedEx forcing job applicants to endure a strange personality test that turns them into blue…",
+            "url": "https://finance.yahoo.com/news/man-just-want-dishwasher-job-110000427.html?ref=biztoc.com"
+        },
+        {
+            "body": "Want to see a pretty picture? How about the one below: This graph with all its fun-colored dots represents all the real estate investment trusts (\"REITs\") publicly traded on major U.S. indices. It seeks to capture where they fall along two very important lines: quality and valuation. In other…",
+            "created": "Sat, 17 Feb 2024 17:06:12 GMT",
+            "domain": "seekingalpha.com",
+            "favicon": "https://c.biztoc.com/f/seekingalpha.com.png",
+            "id": "69e06578b957c8aa",
+            "img": {
+                "o": "https://c.biztoc.com/p/69e06578b957c8aa/o.webp",
+                "og": "https://c.biztoc.com/p/69e06578b957c8aa/og.webp",
+                "ogs": "https://c.biztoc.com/p/69e06578b957c8aa/ogs.webp",
+                "s": "https://c.biztoc.com/p/69e06578b957c8aa/s.webp",
+                "t": "https://c.biztoc.com/p/69e06578b957c8aa/t.webp",
+                "w": "https://c.biztoc.com/p/69e06578b957c8aa/w.webp"
+            },
+            "tags": [
+                "strongbuy",
+                "benjamingraham",
+                "warrenbuffett",
+                "intelligentinvestor",
+                "joneses",
+                "armholdings",
+                "yahoofinance",
+                "renehaas",
+                "needhamcompany",
+                "charlesshi",
+                "yahoofinancelive",
+                "reit",
+                "sf",
+                "wfh",
+                "pfizer",
+                "alphabet",
+                "harvarduniversity",
+                "walt",
+                "ffo",
+                "rsf",
+                "wa",
+                "affo",
+                "midamerica",
+                "southwest",
+                "maa",
+                "noi",
+                "atlanta",
+                "dallas",
+                "tampa",
+                "sunbelt"
+            ],
+            "title": "My Oh My, 3 Strong Buys",
+            "url": "https://seekingalpha.com/article/4670736-my-oh-my-3-strong-buys?ref=biztoc.com"
+        },
+        {
+            "body": "stock sank more than 20% on Friday as continued weakness in the advertising market and more competition from tech giants like Amazon (AMZN) weighed on investor sentiment. Roku beat on Q4 revenue and earnings expectations and saw double-digit gains in both accounts and hours streamed, with 80…",
+            "created": "Sat, 17 Feb 2024 17:06:11 GMT",
+            "domain": "aol.com",
+            "favicon": "https://c.biztoc.com/f/aol.com.png",
+            "id": "755da7dc286db63c",
+            "img": {
+                "o": "https://c.biztoc.com/p/755da7dc286db63c/o.webp",
+                "og": "https://c.biztoc.com/p/755da7dc286db63c/og.webp",
+                "ogs": "https://c.biztoc.com/p/755da7dc286db63c/ogs.webp",
+                "s": "https://c.biztoc.com/p/755da7dc286db63c/s.webp",
+                "t": "https://c.biztoc.com/p/755da7dc286db63c/t.webp",
+                "w": "https://c.biztoc.com/p/755da7dc286db63c/w.webp"
+            },
+            "tags": [
+                "amazon",
+                "roku",
+                "arpu",
+                "bigtech",
+                "oppenheimer",
+                "jasonhelfstein",
+                "netflix",
+                "nflx",
+                "disney",
+                "dis",
+                "wmt",
+                "walmart",
+                "moffettnathanson",
+                "michaelnathanson",
+                "jpmorgan",
+                "overweight",
+                "alexandracanal",
+                "yahoofinance",
+                "linkedin"
+            ],
+            "title": "Roku stock plummets as investors weigh Big Tech competition, shaky ad market",
+            "url": "https://www.aol.com/finance/roku-stock-plummets-investors-weigh-174003030.html?ref=biztoc.com"
+        },
+        {
+            "body": "TOKYO -- The Japanese government will set up electronic terminals at airports that can process both immigration and customs information to shorten the time needed to enter the country to as little as one minute. The program will begin in fiscal 2024 at Haneda Airport in Tokyo and Kansai…",
+            "created": "Sat, 17 Feb 2024 17:04:16 GMT",
+            "domain": "asia.nikkei.com",
+            "favicon": "https://c.biztoc.com/f/asia.nikkei.com.png",
+            "id": "2739bd3e143c3bd5",
+            "img": {
+                "o": "https://c.biztoc.com/p/2739bd3e143c3bd5/o.webp",
+                "s": "https://c.biztoc.com/p/2739bd3e143c3bd5/s.webp",
+                "t": "https://c.biztoc.com/p/2739bd3e143c3bd5/t.webp",
+                "w": "https://c.biztoc.com/p/2739bd3e143c3bd5/w.webp"
+            },
+            "tags": [
+                "tokyo",
+                "hanedaairport",
+                "osaka"
+            ],
+            "title": "Japan aims to shorten entry time for foreign arrivals to 1 minute",
+            "url": "https://asia.nikkei.com/Business/Travel-Leisure/Japan-aims-to-shorten-entry-time-for-foreign-arrivals-to-1-minute?ref=biztoc.com"
+        },
+        {
+            "body": "The weekend isn’t treating Bitcoin’s price right as it has tumbled below $51K, erasing some of the gains achieved during the rally in the past few days. As seen in the chart below, the price took a turn for the worse in the past few hours. Source: TradingView Data from CoinGlass reveals that this…",
+            "created": "Sat, 17 Feb 2024 17:04:14 GMT",
+            "domain": "cryptopotato.com",
+            "favicon": "https://c.biztoc.com/f/cryptopotato.com.png",
+            "id": "8610e418f76f7739",
+            "img": {
+                "o": "https://c.biztoc.com/p/8610e418f76f7739/o.webp",
+                "s": "https://c.biztoc.com/p/8610e418f76f7739/s.webp",
+                "t": "https://c.biztoc.com/p/8610e418f76f7739/t.webp",
+                "w": "https://c.biztoc.com/p/8610e418f76f7739/w.webp"
+            },
+            "tags": [
+                "coinglass"
+            ],
+            "title": "Bitcoin Tumbles Below $51K as Daily Liquidations Top $100M",
+            "url": "https://cryptopotato.com/bitcoin-tumbles-below-51k-as-daily-liquidations-top-100m/?ref=biztoc.com"
+        },
+        {
+            "body": "US prosecutors filed a sentencing memo on Feb. 16 asking a federal judge to sign off on the Binance plea deal, Bloomberg News reported. In November 2023, Binance and its former CEO Changpeng Zhao (CZ) pled guilty to charges of money laundering and sanctions violations. Deal justified The plea deal…",
+            "created": "Sat, 17 Feb 2024 17:04:12 GMT",
+            "domain": "cryptoslate.com",
+            "favicon": "https://c.biztoc.com/f/cryptoslate.com.png",
+            "id": "ba36ef25f7affca1",
+            "img": {
+                "o": "https://c.biztoc.com/p/ba36ef25f7affca1/o.webp",
+                "s": "https://c.biztoc.com/p/ba36ef25f7affca1/s.webp",
+                "t": "https://c.biztoc.com/p/ba36ef25f7affca1/t.webp",
+                "w": "https://c.biztoc.com/p/ba36ef25f7affca1/w.webp"
+            },
+            "tags": [
+                "binance",
+                "changpengzhao",
+                "treasurydepartments",
+                "hamas",
+                "alqassambrigades",
+                "pij",
+                "alqaeda",
+                "iraq",
+                "syria",
+                "isis"
+            ],
+            "title": "US prosecutors ask judge to approve Binance plea deal",
+            "url": "https://cryptoslate.com/us-prosecutors-ask-judge-to-approve-binance-plea-deal/?ref=biztoc.com"
+        },
+        {
+            "body": "Sam Altman's AI dream has a mind-boggling price tag, according to the WSJ: Somewhere between $5 trillion and $7 trillion. Why it matters: Such numbers are preposterous. The fact that they're being talked about with anything approaching a straight face is indicative of the degree to which the…",
+            "created": "Sat, 17 Feb 2024 17:04:11 GMT",
+            "domain": "axios.com",
+            "favicon": "https://c.biztoc.com/f/axios.com.png",
+            "id": "fe6d75eb2ed862b1",
+            "img": {
+                "o": "https://c.biztoc.com/p/fe6d75eb2ed862b1/o.webp",
+                "s": "https://c.biztoc.com/p/fe6d75eb2ed862b1/s.webp",
+                "t": "https://c.biztoc.com/p/fe6d75eb2ed862b1/t.webp",
+                "w": "https://c.biztoc.com/p/fe6d75eb2ed862b1/w.webp"
+            },
+            "tags": [
+                "samaltman",
+                "wsj",
+                "openai",
+                "airevolution",
+                "altman",
+                "nvidia",
+                "elonmusk",
+                "mars",
+                "tsmc",
+                "manhattanproject",
+                "ustreasury",
+                "jensenhuang"
+            ],
+            "title": "What Sam Altman's chimerical trillions say about AI hype",
+            "url": "https://www.axios.com/2024/02/17/sam-altman-openai-7trillion?ref=biztoc.com"
+        },
+        {
+            "body": "Saving through a Roth 401(k) can help you grow a nest egg that you can then tap into in retirement without having to pay taxes. If you leave your job or you’re ready to retire, you may be wondering what to do with the funds in your 401(k). Rolling your Roth 401(k) over to a Roth IRA is just one…",
+            "created": "Sat, 17 Feb 2024 17:04:09 GMT",
+            "domain": "aol.com",
+            "favicon": "https://c.biztoc.com/f/aol.com.png",
+            "id": "73011d69f3894c10",
+            "img": {
+                "o": "https://c.biztoc.com/p/73011d69f3894c10/o.webp",
+                "s": "https://c.biztoc.com/p/73011d69f3894c10/s.webp",
+                "t": "https://c.biztoc.com/p/73011d69f3894c10/t.webp",
+                "w": "https://c.biztoc.com/p/73011d69f3894c10/w.webp"
+            },
+            "tags": [
+                "davelowell",
+                "cfp",
+                "saltlakecity",
+                "lowell",
+                "requesting",
+                "agi",
+                "nonecheck"
+            ],
+            "title": "How the 5-Year Rule Affects Roth 401(k)s & Roth IRAs",
+            "url": "https://www.aol.com/roll-over-roth-401-k-163040329.html?ref=biztoc.com"
+        },
+        {
+            "body": "With a few notable exceptions, the age of pensions is largely over in the U.S. Traditional defined benefit plans have replaced largely by defined contribution retirement vehicles like 401(k) plans. A new study from the National Institute on Retirement Security, though, seems to suggest that the…",
+            "created": "Sat, 17 Feb 2024 17:04:07 GMT",
+            "domain": "aol.com",
+            "favicon": "https://c.biztoc.com/f/aol.com.png",
+            "id": "05a9dcbe1968ce16",
+            "img": {
+                "o": "https://c.biztoc.com/p/05a9dcbe1968ce16/o.webp",
+                "s": "https://c.biztoc.com/p/05a9dcbe1968ce16/s.webp",
+                "t": "https://c.biztoc.com/p/05a9dcbe1968ce16/t.webp",
+                "w": "https://c.biztoc.com/p/05a9dcbe1968ce16/w.webp"
+            },
+            "tags": [
+                "ustraditional",
+                "nirs",
+                "dandoonan",
+                "db"
+            ],
+            "title": "Which Will Cost Me More Money: Pension or 401(k)?",
+            "url": "https://www.aol.com/cost-more-money-pensions-401-130010694.html?ref=biztoc.com"
+        },
+        {
+            "body": "In a world where bigger often seems better, downsizing offers a refreshing alternative. While the concept traditionally revolves around transitioning to a smaller home to save money, downsizing extends beyond mere living arrangements. It involves simplifying various aspects of life, from embracing…",
+            "created": "Sat, 17 Feb 2024 17:04:07 GMT",
+            "domain": "aol.com",
+            "favicon": "https://c.biztoc.com/f/aol.com.png",
+            "id": "95db4d0826d1fdc1",
+            "img": {
+                "o": "https://c.biztoc.com/p/95db4d0826d1fdc1/o.webp",
+                "s": "https://c.biztoc.com/p/95db4d0826d1fdc1/s.webp",
+                "t": "https://c.biztoc.com/p/95db4d0826d1fdc1/t.webp",
+                "w": "https://c.biztoc.com/p/95db4d0826d1fdc1/w.webp"
+            },
+            "tags": [
+                "uscensusbureau",
+                "federalreserve",
+                "nonefinancialfreedom",
+                "nonelessmaintenance",
+                "noneclosingcosts",
+                "nonecommunityfees",
+                "hoa",
+                "nonelimitedspace"
+            ],
+            "title": "Is It Time to Downsize? Here's How to Find Out",
+            "url": "https://www.aol.com/time-downsize-heres-130000210.html?ref=biztoc.com"
+        },
+        {
+            "body": "City crews on Friday took an initial step toward securing an unfinished complex of downtown Los Angeles high-rise towers that have been vandalized with graffiti and used for dangerous social media stunts after the developer ran out of money. Workers began removing scaffolding protecting a…",
+            "created": "Sat, 17 Feb 2024 17:04:06 GMT",
+            "domain": "fortune.com",
+            "favicon": "https://c.biztoc.com/f/fortune.com.png",
+            "id": "4a18b650af29b539",
+            "img": {
+                "o": "https://c.biztoc.com/p/4a18b650af29b539/o.webp",
+                "s": "https://c.biztoc.com/p/4a18b650af29b539/s.webp",
+                "t": "https://c.biztoc.com/p/4a18b650af29b539/t.webp",
+                "w": "https://c.biztoc.com/p/4a18b650af29b539/w.webp"
+            },
+            "tags": [
+                "gordonhelper",
+                "helper",
+                "beijing",
+                "losangelestimes",
+                "hongkong",
+                "donaldtrump",
+                "xijinpings",
+                "cryptocomarena",
+                "grammys",
+                "kevindeleón",
+                "oceanwideplaza"
+            ],
+            "title": "Los Angeles finally tackles $1.5 billion eyesore 'graffiti towers' left vacant by China real-estate bust, beloved by daredevil influencers",
+            "url": "https://fortune.com/2024/02/17/los-angeles-graffiti-towers-1-5-billion-china-oceanwide/?ref=biztoc.com"
+        },
+        {
+            "body": "By clicking “Sign Up”, you accept our Terms of Service and Privacy Policy . You can opt-out at any time. Access your favorite topics in a personalized feed while you're on the go. download the app Sign up to get the inside scoop on today’s biggest stories in markets, tech, and business — delivered…",
+            "created": "Sat, 17 Feb 2024 17:04:05 GMT",
+            "domain": "businessinsider.com",
+            "favicon": "https://c.biztoc.com/f/businessinsider.com.png",
+            "id": "4205b635f069b836",
+            "img": {
+                "o": "https://c.biztoc.com/p/4205b635f069b836/o.webp",
+                "s": "https://c.biztoc.com/p/4205b635f069b836/s.webp",
+                "t": "https://c.biztoc.com/p/4205b635f069b836/t.webp",
+                "w": "https://c.biztoc.com/p/4205b635f069b836/w.webp"
+            },
+            "tags": [
+                "termsofservice",
+                "newyorker",
+                "newyorkerhotel",
+                "mickeybarreto",
+                "manhattan",
+                "alvinbragg",
+                "barretos",
+                "newyorkcitys",
+                "barreto",
+                "supremecourt",
+                "barretto",
+                "unificationchurch",
+                "linkedin",
+                "nypd"
+            ],
+            "title": "A man who has lived in a New York City hotel rent-free for 5 years may finally have to move out",
+            "url": "https://www.businessinsider.com/man-living-rent-free-in-new-york-hotel-evicted-squatting-2024-2?ref=biztoc.com"
+        },
+        {
+            "body": "A realtor has stunned the internet after revealing the shocking discussion he had with a 20-year-old buyer, who had no idea what a traditional household appliance was. In a viral video posted on TikTok, Steve Venlet explained that, while showing the buyer, who was 20 or 21 years old, around the…",
+            "created": "Sat, 17 Feb 2024 17:02:05 GMT",
+            "domain": "newsweek.com",
+            "favicon": "https://c.biztoc.com/f/newsweek.com.png",
+            "id": "bd786ccac75a8be8",
+            "img": {
+                "o": "https://c.biztoc.com/p/bd786ccac75a8be8/o.webp",
+                "s": "https://c.biztoc.com/p/bd786ccac75a8be8/s.webp",
+                "t": "https://c.biztoc.com/p/bd786ccac75a8be8/t.webp",
+                "w": "https://c.biztoc.com/p/bd786ccac75a8be8/w.webp"
+            },
+            "tags": [
+                "tiktok",
+                "stevevenlet",
+                "venlet",
+                "genz",
+                "michigan",
+                "pewresearchcenter",
+                "ushealthdepartment"
+            ],
+            "title": "Realtor makes horror realization while selling house to Gen Z buyer",
+            "url": "https://www.newsweek.com/realtors-horror-realization-gen-z-buyer-1870723?ref=biztoc.com"
+        },
+        {
+            "body_preview": "",
+            "created": "Sat, 17 Feb 2024 17:00:13 GMT",
+            "domain": "barrons.com",
+            "favicon": "https://c.biztoc.com/f/barrons.com.png",
+            "id": "95f2d8cc2d333c96",
+            "img": {
+                "o": "https://c.biztoc.com/p/95f2d8cc2d333c96/o.webp",
+                "s": "https://c.biztoc.com/p/95f2d8cc2d333c96/s.webp",
+                "t": "https://c.biztoc.com/p/95f2d8cc2d333c96/t.webp",
+                "w": "https://c.biztoc.com/p/95f2d8cc2d333c96/w.webp"
+            },
+            "tags": [],
+            "title": "JetBlue Pops After Icahn Wins Board Seats. Expect More Turbulence for the Stock",
+            "url": "https://www.barrons.com/articles/jetblue-icahn-spirit-airlines-activist-stock-69c93276?ref=biztoc.com"
+        },
+        {
+            "body": "Crypto scams in India have risen significantly in the past couple of years. On Saturday, a consultancy executive was reportedly cheated in the name of crypto rewards. According to local media reports, a Gurugram-based executive has faced a fraud worth over $45,000. The heightened frauds have now…",
+            "created": "Sat, 17 Feb 2024 17:00:12 GMT",
+            "domain": "coingape.com",
+            "favicon": "https://c.biztoc.com/f/coingape.com.png",
+            "id": "c040540f3e81cdef",
+            "img": {
+                "o": "https://c.biztoc.com/p/c040540f3e81cdef/o.webp",
+                "s": "https://c.biztoc.com/p/c040540f3e81cdef/s.webp",
+                "t": "https://c.biztoc.com/p/c040540f3e81cdef/t.webp",
+                "w": "https://c.biztoc.com/p/c040540f3e81cdef/w.webp"
+            },
+            "tags": [
+                "gurugram",
+                "whatsapp",
+                "nt",
+                "odisha",
+                "fiu",
+                "cryptoscamsrise"
+            ],
+            "title": "Crypto Scams Rise in India as Another Consulting Executive Faces Fraud",
+            "url": "https://coingape.com/crypto-scams-rise-in-india-as-another-consulting-executive-faces-fraud/?ref=biztoc.com"
+        },
+        {
+            "body": "Randy Sparks, whose group the New Christy Minstrels was a huge part of the folk revival of the early 1960s, died on Sunday at an assisted-living facility in San Diego. He was 90. His son, Kevin, confirmed the death to the New York Times. Sparks was living on his 168-acre ranch in Jenny Lind,…",
+            "created": "Sat, 17 Feb 2024 17:00:08 GMT",
+            "domain": "deadline.com",
+            "favicon": "https://c.biztoc.com/f/deadline.com.png",
+            "id": "b0d2bcfdc9fd4c36",
+            "img": {
+                "o": "https://c.biztoc.com/p/b0d2bcfdc9fd4c36/o.webp",
+                "s": "https://c.biztoc.com/p/b0d2bcfdc9fd4c36/s.webp",
+                "t": "https://c.biztoc.com/p/b0d2bcfdc9fd4c36/t.webp",
+                "w": "https://c.biztoc.com/p/b0d2bcfdc9fd4c36/w.webp"
+            },
+            "tags": [
+                "randysparks",
+                "newchristyminstrels",
+                "sandiego",
+                "jennylind",
+                "grammyaward",
+                "billboard",
+                "barrymcguire",
+                "andywilliamsshow",
+                "abc",
+                "fordpresents",
+                "sparks",
+                "backporchmajority",
+                "stevemartin",
+                "johndenver",
+                "kennyrogers",
+                "kimcarnes",
+                "geneclark",
+                "byrds",
+                "northerncalifornia",
+                "burlives",
+                "melinda",
+                "amanda",
+                "naomiallen"
+            ],
+            "title": "Randy Sparks Dies: Grammy-Winning Founder Of The New Christy Minstrels And TV Star Was 90",
+            "url": "https://deadline.com/2024/02/randy-sparks-dead-grammy-winning-founder-the-new-christy-minstrels-was-90-obituary-1235829316/?ref=biztoc.com"
+        },
+        {
+            "body": "Is Prince Harry and Meghan Markle's widely-publicized departure from royal life over? Recent headlines suggest it soon might be, with unnamed sources telling one UK publication that Markle is attempting to mend fences with her sister-in-law, Kate Middleton. Another publication, this one based in…",
+            "created": "Sat, 17 Feb 2024 17:00:08 GMT",
+            "domain": "vanityfair.com",
+            "favicon": "https://c.biztoc.com/f/vanityfair.com.png",
+            "id": "d4437f611c1e26f5",
+            "img": {
+                "o": "https://c.biztoc.com/p/d4437f611c1e26f5/o.webp",
+                "s": "https://c.biztoc.com/p/d4437f611c1e26f5/s.webp",
+                "t": "https://c.biztoc.com/p/d4437f611c1e26f5/t.webp",
+                "w": "https://c.biztoc.com/p/d4437f611c1e26f5/w.webp"
+            },
+            "tags": [
+                "meghanmarkle",
+                "markle",
+                "katemiddleton",
+                "charlesiii",
+                "invictusgames",
+                "archetypes",
+                "sussexes",
+                "pagesix",
+                "meghan",
+                "goodmorningamerica",
+                "royalfamily",
+                "buckinghampalace",
+                "royal",
+                "dukeandduchess",
+                "usweekly",
+                "omidscobie"
+            ],
+            "title": "Meghan Markle is Trying to “Reconcile” With Kate Middleton: Report",
+            "url": "https://www.vanityfair.com/style/meghan-markle-prince-harry-kate-middleton-royal-duties?ref=biztoc.com"
+        },
+        {
+            "body": "The decentralized finance (DeFi) landscape has been consistently growing since late 2023, after a fall that started in May 2022. In particular, the total value locked (TVL) in DeFi surged nearly 100% in the past four months. On February 17, TVL reached a 2-year high of $71.914 billion. This is…",
+            "created": "Sat, 17 Feb 2024 16:58:09 GMT",
+            "domain": "finbold.com",
+            "favicon": "https://c.biztoc.com/f/finbold.com.png",
+            "id": "c87896c9fa7b3b26",
+            "img": {
+                "o": "https://c.biztoc.com/p/c87896c9fa7b3b26/o.webp",
+                "s": "https://c.biztoc.com/p/c87896c9fa7b3b26/s.webp",
+                "t": "https://c.biztoc.com/p/c87896c9fa7b3b26/t.webp",
+                "w": "https://c.biztoc.com/p/c87896c9fa7b3b26/w.webp"
+            },
+            "tags": [
+                "defillama",
+                "notably",
+                "cardano",
+                "tokens",
+                "radix",
+                "xrd",
+                "egld",
+                "nearprotocol",
+                "suinetwork",
+                "ethereum",
+                "solana",
+                "neverthelessethereum",
+                "vanguard",
+                "aum",
+                "blackrockinc",
+                "swfinstitute",
+                "antibitcoin",
+                "bitcoin",
+                "charleshoskinson"
+            ],
+            "title": "Funds locked in DeFi surged 100% in 4 months, reaching 2-year high",
+            "url": "https://finbold.com/funds-locked-in-defi-surged-100-in-4-months-reaching-2-year-high/?ref=biztoc.com"
+        },
+        {
+            "body": "Nvidia (NASDAQ: NVDA) is the dominant force in the market for artificial intelligence (AI) graphics cards, with an estimated 92% market share. This is the reason the company has been growing at a terrific pace, up 230% over the past year. However, the company faces a potential threat from some…",
+            "created": "Sat, 17 Feb 2024 16:54:08 GMT",
+            "domain": "finance.yahoo.com",
+            "favicon": "https://c.biztoc.com/f/finance.yahoo.com.png",
+            "id": "17cc6396530711b4",
+            "img": {
+                "o": "https://c.biztoc.com/p/17cc6396530711b4/o.webp",
+                "s": "https://c.biztoc.com/p/17cc6396530711b4/s.webp",
+                "t": "https://c.biztoc.com/p/17cc6396530711b4/t.webp",
+                "w": "https://c.biztoc.com/p/17cc6396530711b4/w.webp"
+            },
+            "tags": [
+                "nvidia",
+                "nvda",
+                "amazon",
+                "metaplatforms",
+                "alphabet",
+                "googlecloud",
+                "amazonwebservices",
+                "h100",
+                "raymondjames",
+                "gpu",
+                "asics",
+                "semianalysis",
+                "avgo",
+                "marvelltechnology",
+                "marvell",
+                "asic",
+                "afeb9reuters",
+                "meta",
+                "openai",
+                "google",
+                "randizuckerberg",
+                "markzuckerberg",
+                "motleyfool",
+                "johnmackey",
+                "wholefoodsmarket",
+                "motleyfools",
+                "suzannefrey",
+                "harshchauhan"
+            ],
+            "title": "Nvidia Could Be About to Counter a Big Artificial Intelligence (AI) Threat With This Move",
+            "url": "https://finance.yahoo.com/news/nvidia-could-counter-big-artificial-161100016.html?ref=biztoc.com"
+        },
+        {
+            "body": "The markets have dealt with several headwinds over the past few years, yet the S&P 500 has pushed through all that turmoil and is again posting new highs. It's another reminder that, regardless of how the markets perform in the near term, investors will eventually be rewarded for holding shares of…",
+            "created": "Sat, 17 Feb 2024 16:54:06 GMT",
+            "domain": "finance.yahoo.com",
+            "favicon": "https://c.biztoc.com/f/finance.yahoo.com.png",
+            "id": "558f2effa10a05a9",
+            "img": {
+                "o": "https://c.biztoc.com/p/558f2effa10a05a9/o.webp",
+                "s": "https://c.biztoc.com/p/558f2effa10a05a9/s.webp",
+                "t": "https://c.biztoc.com/p/558f2effa10a05a9/t.webp",
+                "w": "https://c.biztoc.com/p/558f2effa10a05a9/w.webp"
+            },
+            "tags": [
+                "motleyfool",
+                "johnballard",
+                "latinamerica",
+                "mercadolibre",
+                "brazil",
+                "mexico",
+                "argentina",
+                "jeremybowmanairbnb",
+                "airbnb",
+                "airbnbust",
+                "asiapacific",
+                "newyorkcity",
+                "newjersey",
+                "amazon",
+                "jennifersaibil",
+                "amazonwebservice",
+                "nvidia",
+                "johnmackey",
+                "wholefoodsmarket",
+                "magnificentstocks",
+                "buyhandoverfist"
+            ],
+            "title": "3 Magnificent Stocks to Buy Hand Over Fist Right Now",
+            "url": "https://finance.yahoo.com/news/3-magnificent-stocks-buy-hand-130000552.html?ref=biztoc.com"
+        },
+        {
+            "body": "If you want to take advantage of high interest rates to boost your savings, you may be looking for alternatives to a savings account. Certificates of deposit and Treasury bills offer annual percentage yields (APYs) of 5.00% or better and can be excellent options to maximize your savings. But which…",
+            "created": "Sat, 17 Feb 2024 16:52:08 GMT",
+            "domain": "finance.yahoo.com",
+            "favicon": "https://c.biztoc.com/f/finance.yahoo.com.png",
+            "id": "1bb52524903461dc",
+            "img": {
+                "o": "https://c.biztoc.com/p/1bb52524903461dc/o.webp",
+                "og": "https://c.biztoc.com/p/1bb52524903461dc/og.webp",
+                "ogs": "https://c.biztoc.com/p/1bb52524903461dc/ogs.webp",
+                "s": "https://c.biztoc.com/p/1bb52524903461dc/s.webp",
+                "t": "https://c.biztoc.com/p/1bb52524903461dc/t.webp",
+                "w": "https://c.biztoc.com/p/1bb52524903461dc/w.webp"
+            },
+            "tags": [
+                "treasury",
+                "treasurydirect",
+                "fdic",
+                "usdepartment",
+                "noneearnings",
+                "noneissuer",
+                "nonematurity",
+                "apy",
+                "noneinvestment"
+            ],
+            "title": "CDs vs. Treasury bills: Maximizing your savings",
+            "url": "https://finance.yahoo.com/personal-finance/cds-vs-treasury-bills-211111673.html?ref=biztoc.com"
+        },
+        {
+            "body": "Activist Commentary: Carl Icahn is the grandfather of shareholder activism and a true pioneer of the strategy. He is very passionate about shareholder rights and good corporate governance and will go to extreme lengths to fight incompetent boards and over compensated managers. While Carl Icahn is…",
+            "created": "Sat, 17 Feb 2024 16:52:06 GMT",
+            "domain": "cnbc.com",
+            "favicon": "https://c.biztoc.com/f/cnbc.com.png",
+            "id": "33bdeb0ff8c3b156",
+            "img": {
+                "o": "https://c.biztoc.com/p/33bdeb0ff8c3b156/o.webp",
+                "og": "https://c.biztoc.com/p/33bdeb0ff8c3b156/og.webp",
+                "ogs": "https://c.biztoc.com/p/33bdeb0ff8c3b156/ogs.webp",
+                "s": "https://c.biztoc.com/p/33bdeb0ff8c3b156/s.webp",
+                "t": "https://c.biztoc.com/p/33bdeb0ff8c3b156/t.webp",
+                "w": "https://c.biztoc.com/p/33bdeb0ff8c3b156/w.webp"
+            },
+            "tags": [
+                "activist",
+                "carlicahn",
+                "bretticahn",
+                "brett",
+                "apple",
+                "netflix",
+                "forestlabs",
+                "biogen",
+                "sargon",
+                "icahn",
+                "haincelestial",
+                "taketwointeractive",
+                "mentorgraphics",
+                "jetblue",
+                "spirit",
+                "joannageraghty",
+                "robinhayes",
+                "delta",
+                "southwest",
+                "kensquire",
+                "13dmonitor",
+                "13dactivistfund"
+            ],
+            "title": "Carl Icahn gets two seats on JetBlue’s board. Here’s how he may help build value",
+            "url": "https://www.cnbc.com/2024/02/17/carl-icahn-gets-two-seats-on-jetblues-board-heres-how-he-may-help-build-value.html?ref=biztoc.com"
+        },
+        {
+            "body": "SHANGHAI -- Chinese Foreign Minister Wang Yi on Saturday urged European countries to deepen cooperation with China as Beijing seeks to cement its position as a major player in global diplomacy. Speaking at the Munich Security Conference in Germany, Wang touched on a wide range of issues including…",
+            "created": "Sat, 17 Feb 2024 16:50:14 GMT",
+            "domain": "asia.nikkei.com",
+            "favicon": "https://c.biztoc.com/f/asia.nikkei.com.png",
+            "id": "38b1924009813f14",
+            "img": {
+                "o": "https://c.biztoc.com/p/38b1924009813f14/o.webp",
+                "s": "https://c.biztoc.com/p/38b1924009813f14/s.webp",
+                "t": "https://c.biztoc.com/p/38b1924009813f14/t.webp",
+                "w": "https://c.biztoc.com/p/38b1924009813f14/w.webp"
+            },
+            "tags": [
+                "shanghai",
+                "wangyi",
+                "beijing",
+                "wang",
+                "ukraine",
+                "gaza"
+            ],
+            "title": "China foreign minister courts Europe in wake of Trump's NATO taunt",
+            "url": "https://asia.nikkei.com/Politics/International-relations/China-foreign-minister-courts-Europe-in-wake-of-Trump-s-NATO-taunt?ref=biztoc.com"
+        },
+        {
+            "body": "RUSSIA HAS scored its first battlefield success for almost nine months. In the early hours of February 17th Colonel General Oleksandr Syrsky, who was appointed as Ukraine’s commander-in-chief only on February 8th, announced that, in order to avoid their being encircled, he was pulling his troops…",
+            "created": "Sat, 17 Feb 2024 16:50:12 GMT",
+            "domain": "economist.com",
+            "favicon": "https://c.biztoc.com/f/economist.com.png",
+            "id": "5ed024c0c178be7e",
+            "img": {
+                "o": "https://c.biztoc.com/p/5ed024c0c178be7e/o.webp",
+                "s": "https://c.biztoc.com/p/5ed024c0c178be7e/s.webp",
+                "t": "https://c.biztoc.com/p/5ed024c0c178be7e/t.webp",
+                "w": "https://c.biztoc.com/p/5ed024c0c178be7e/w.webp"
+            },
+            "tags": [
+                "oleksandrsyrsky",
+                "ukraine",
+                "avdiivka",
+                "volodymyrzelensky",
+                "bakhmut",
+                "oleksandrtarnavsky",
+                "republicans",
+                "russian",
+                "ukrainians",
+                "mariupol",
+                "mykolakapitonenko",
+                "russians",
+                "valeryzaluzhny",
+                "mrzelensky",
+                "mrkapitonenko",
+                "kostiantynivka",
+                "nationalguardsman"
+            ],
+            "title": "Avdiivka falls at last, as Russia presses along the front line",
+            "url": "https://www.economist.com/europe/2024/02/17/avdiivka-falls-at-last-as-russia-presses-along-the-front-line?ref=biztoc.com"
+        },
+        {
+            "body": "Downsizing in retirement has become a popular choice for many seniors, offering a fresh start and newfound freedom. Whether it’s driven by a desire to simplify, financial reasons, empty nests, health needs or emotional well-being, downsizing opens doors to a more fulfilling lifestyle. But where to…",
+            "created": "Sat, 17 Feb 2024 16:50:08 GMT",
+            "domain": "aol.com",
+            "favicon": "https://c.biztoc.com/f/aol.com.png",
+            "id": "5e69e22f0f40e0fd",
+            "img": {
+                "o": "https://c.biztoc.com/p/5e69e22f0f40e0fd/o.webp",
+                "s": "https://c.biztoc.com/p/5e69e22f0f40e0fd/s.webp",
+                "t": "https://c.biztoc.com/p/5e69e22f0f40e0fd/t.webp",
+                "w": "https://c.biztoc.com/p/5e69e22f0f40e0fd/w.webp"
+            },
+            "tags": [
+                "nasmm",
+                "estate",
+                "comparing",
+                "south",
+                "movesforseniors",
+                "alaska",
+                "caringtransitions",
+                "placementco",
+                "based",
+                "florida",
+                "maxsold",
+                "georgia",
+                "ontario",
+                "britishcolumbia",
+                "gentletransitions",
+                "jkmoving",
+                "movemasters",
+                "sandiegocounty",
+                "sanfernandovalley",
+                "santaclarita",
+                "ventura",
+                "movemanagers",
+                "southflorida",
+                "denvermetroarea",
+                "care",
+                "nonefacilitate",
+                "changingplaces",
+                "westchester",
+                "softlandingsservices",
+                "beaverton"
+            ],
+            "title": "Want to Downsize in Retirement? Here's How to Make It Work For You",
+            "url": "https://www.aol.com/downsize-retirement-heres-130140323.html?ref=biztoc.com"
+        },
+        {
+            "body": "Paramount’s Bob Marley: One Love easily has been exceeding expectations since it opened Valentine’s Day, and there’s no telling where it might come in by the end of the long Presidents’ Day weekend, thanks to a glowing A CinemaScore. Early estimates show the Paramount film posting a six-day…",
+            "created": "Sat, 17 Feb 2024 16:48:10 GMT",
+            "domain": "hollywoodreporter.com",
+            "favicon": "https://c.biztoc.com/f/hollywoodreporter.com.png",
+            "id": "e416e6122adacda4",
+            "img": {
+                "o": "https://c.biztoc.com/p/e416e6122adacda4/o.webp",
+                "s": "https://c.biztoc.com/p/e416e6122adacda4/s.webp",
+                "t": "https://c.biztoc.com/p/e416e6122adacda4/t.webp",
+                "w": "https://c.biztoc.com/p/e416e6122adacda4/w.webp"
+            },
+            "tags": [
+                "paramount",
+                "bobmarley",
+                "cinemascore",
+                "rocketman",
+                "sony",
+                "vow",
+                "reinaldomarcusgreens",
+                "jamaican",
+                "rastafarian",
+                "kingsleybenadir",
+                "marvelstudios",
+                "marvelsspiderman",
+                "venom",
+                "morbius"
+            ],
+            "title": "Box Office: Bob Marley ‘One Love’ Jamming to $46M Opening, ‘Madame Web’ Spinning Out With $24M",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/bob-marley-one-love-madame-web-box-ofifice-1235828725/?ref=biztoc.com"
+        },
+        {
+            "body": "In the last 37 days, the newly introduced nine spot bitcoin exchange-traded funds (ETFs) have rapidly accumulated a remarkable total of 264,232.74 bitcoin, now valued at $13.5 billion based on the current exchange rates. Leading the pack, Blackrock’s IBIT ETF holds a substantial 43% of this total,…",
+            "created": "Sat, 17 Feb 2024 16:48:09 GMT",
+            "domain": "news.bitcoin.com",
+            "favicon": "https://c.biztoc.com/f/news.bitcoin.com.png",
+            "id": "22cbdf40bb6427d2",
+            "img": {
+                "o": "https://c.biztoc.com/p/22cbdf40bb6427d2/o.webp",
+                "s": "https://c.biztoc.com/p/22cbdf40bb6427d2/s.webp",
+                "t": "https://c.biztoc.com/p/22cbdf40bb6427d2/t.webp",
+                "w": "https://c.biztoc.com/p/22cbdf40bb6427d2/w.webp"
+            },
+            "tags": [
+                "ibit"
+            ],
+            "title": "New Wave of Bitcoin ETFs Acquire 264,232 BTC Worth $13.5B in Just 5 Weeks, Blackrock’s IBIT Leads Charge",
+            "url": "https://news.bitcoin.com/new-wave-of-bitcoin-etfs-acquire-264232-btc-worth-13-5b-in-just-5-weeks-blackrocks-ibit-leads-charge/?ref=biztoc.com"
+        },
+        {
+            "body": "Donald Trump has taken to social media to criticize a photo that has supposedly been edited to make him look larger than he actually is. The former U.S. president posted on his social-media platform Truth Social a set of four images of him playing golf, one of which he says was AI-generated and…",
+            "created": "Sat, 17 Feb 2024 16:48:07 GMT",
+            "domain": "newsweek.com",
+            "favicon": "https://c.biztoc.com/f/newsweek.com.png",
+            "id": "59f0970273fdbc7b",
+            "img": {
+                "o": "https://c.biztoc.com/p/59f0970273fdbc7b/o.webp",
+                "s": "https://c.biztoc.com/p/59f0970273fdbc7b/s.webp",
+                "t": "https://c.biztoc.com/p/59f0970273fdbc7b/t.webp",
+                "w": "https://c.biztoc.com/p/59f0970273fdbc7b/w.webp"
+            },
+            "tags": [
+                "donaldtrump",
+                "truthsocial",
+                "trump",
+                "fakenews",
+                "lincolnproject",
+                "fredtrumpsr",
+                "trumpsr",
+                "retruthing"
+            ],
+            "title": "Donald Trump furious about golf photos that make him look fat",
+            "url": "https://www.newsweek.com/donald-trump-golf-photos-ai-fat-1870928?ref=biztoc.com"
+        },
+        {
+            "body": "New players can get started with BetMGM bonus code NEWSWEEK150 and bet $5 to win $150 in bonuses. Anyone who registers with bet365 promo code NEWSXLM will have access to a $150 bonus or a $1,000 safety net bet. With so many options on the table this weekend, there should be something for every…",
+            "created": "Sat, 17 Feb 2024 16:48:06 GMT",
+            "domain": "newsweek.com",
+            "favicon": "https://c.biztoc.com/f/newsweek.com.png",
+            "id": "b5a9f153af25a85f",
+            "img": {
+                "o": "https://c.biztoc.com/p/b5a9f153af25a85f/o.webp",
+                "s": "https://c.biztoc.com/p/b5a9f153af25a85f/s.webp",
+                "t": "https://c.biztoc.com/p/b5a9f153af25a85f/t.webp",
+                "w": "https://c.biztoc.com/p/b5a9f153af25a85f/w.webp"
+            },
+            "tags": [
+                "betmgm",
+                "newsxlm",
+                "ufc298",
+                "alexandervolkanovski",
+                "iliatopuria",
+                "nbaallstarweekend",
+                "betmgmbonuscode"
+            ],
+            "title": "BetMGM bonus code + bet365 promo code: Get $1,150 UFC, NBA All-Star bonuses",
+            "url": "https://www.newsweek.com/betmgm-bonus-code-bet365-promo-code-get-1150-ufc-nba-all-star-bonuses-1870872?ref=biztoc.com"
+        },
+        {
+            "body": "More than 200 supporters of Russia's leading opposition figure Alexei Navalny were arrested as they were gathered to mourn the death of the activist, which was confirmed by Moscow authorities on Friday. The Russian independent human-rights group OVD-Info said at least 273 people at vigils in honor…",
+            "created": "Sat, 17 Feb 2024 16:48:05 GMT",
+            "domain": "newsweek.com",
+            "favicon": "https://c.biztoc.com/f/newsweek.com.png",
+            "id": "47602f2ecb8e23c1",
+            "img": {
+                "o": "https://c.biztoc.com/p/47602f2ecb8e23c1/o.webp",
+                "s": "https://c.biztoc.com/p/47602f2ecb8e23c1/s.webp",
+                "t": "https://c.biztoc.com/p/47602f2ecb8e23c1/t.webp",
+                "w": "https://c.biztoc.com/p/47602f2ecb8e23c1/w.webp"
+            },
+            "tags": [
+                "alexeinavalny",
+                "moscow",
+                "russian",
+                "ovdinfo",
+                "navalny",
+                "stpetersburg",
+                "yekaterinburg",
+                "sochi",
+                "belgorod",
+                "ukraine",
+                "vladimirputin",
+                "polarwolfarctic",
+                "kirayarmysh",
+                "kamalaharris",
+                "volodymyrzelensky",
+                "berlin",
+                "olafscholz",
+                "scholz",
+                "emmanuelmacron",
+                "gulag",
+                "rishisunak",
+                "italian",
+                "giorgiameloni",
+                "ursulavonder",
+                "leyen",
+                "eucommission"
+            ],
+            "title": "Navalny supporters arrested in Russia as world reacts to his death",
+            "url": "https://www.newsweek.com/navalny-supporters-arrested-russia-world-reacts-his-death-1870916?ref=biztoc.com"
+        },
+        {
+            "body": "From Censorship To Criminalizing Dissent Authored by Jeffrey Tucker via The Epoch Times, History does seem to be on fast forward, doesn’t it? A major battle is brewing throughout the Western world over the basic principle of free speech. Is it going to be protected by law? It’s not entirely clear…",
+            "created": "Sat, 17 Feb 2024 16:46:07 GMT",
+            "domain": "zerohedge.com",
+            "favicon": "https://c.biztoc.com/f/zerohedge.com.png",
+            "id": "b205f4a1c5574677",
+            "img": {
+                "o": "https://c.biztoc.com/p/b205f4a1c5574677/o.webp",
+                "s": "https://c.biztoc.com/p/b205f4a1c5574677/s.webp",
+                "t": "https://c.biztoc.com/p/b205f4a1c5574677/t.webp",
+                "w": "https://c.biztoc.com/p/b205f4a1c5574677/w.webp"
+            },
+            "tags": [
+                "jeffreytucker",
+                "epochtimes",
+                "generalassembly",
+                "assembleenationale",
+                "bertrandguayafp",
+                "commonwealth",
+                "michaelmann",
+                "mann",
+                "hbodocumentary",
+                "randsimberg",
+                "marksteyn",
+                "1msimberg",
+                "anthonyfauci",
+                "firstamendment"
+            ],
+            "title": "From Censorship To Criminalizing Dissent",
+            "url": "https://www.zerohedge.com/geopolitical/censorship-criminalizing-dissent?ref=biztoc.com"
+        },
+        {
+            "body": "Learn More Why Pawn Stars' Rick Harrison Turned Down A Bottle Of 1921 Dom Pérignon For some, alcohol is more than a way to unwind after a long week. It's a status symbol, with one of the most prized bottles out there being a 1921 Dom Pérignon. On \"Pawn Stars,\" Rick Harrison actually got the chance…",
+            "created": "Sat, 17 Feb 2024 16:44:10 GMT",
+            "domain": "looper.com",
+            "favicon": "https://c.biztoc.com/f/looper.com.png",
+            "id": "ccec709309f1ecf2",
+            "img": {
+                "o": "https://c.biztoc.com/p/ccec709309f1ecf2/o.webp",
+                "s": "https://c.biztoc.com/p/ccec709309f1ecf2/s.webp",
+                "t": "https://c.biztoc.com/p/ccec709309f1ecf2/t.webp",
+                "w": "https://c.biztoc.com/p/ccec709309f1ecf2/w.webp"
+            },
+            "tags": [
+                "rickharrisonturned",
+                "pawnstars",
+                "rickharrison",
+                "doubletrouble",
+                "fahrenheit"
+            ],
+            "title": "Why Pawn Stars' Rick Harrison Turned Down A Bottle Of 1921 Dom Pérignon",
+            "url": "https://www.looper.com/1518355/1921-dom-perignon-pawn-stars-rick-harrison-turned-down/?ref=biztoc.com"
+        },
+        {
+            "body": "This week’s $26 billion combination of two Texas oil companies is the latest in a series of deals that’s ushering in the era of Big Shale. Wall Street, which eyed the sector with skepticism for most of the last decade, appears to be all in. • None Black-Swan ETFs Are Facing Their Own Doomsday…",
+            "created": "Sat, 17 Feb 2024 16:40:06 GMT",
+            "domain": "finance.yahoo.com",
+            "favicon": "https://c.biztoc.com/f/finance.yahoo.com.png",
+            "id": "eb2d1a0f71cdca4a",
+            "img": {
+                "o": "https://c.biztoc.com/p/eb2d1a0f71cdca4a/o.webp",
+                "s": "https://c.biztoc.com/p/eb2d1a0f71cdca4a/s.webp",
+                "t": "https://c.biztoc.com/p/eb2d1a0f71cdca4a/t.webp",
+                "w": "https://c.biztoc.com/p/eb2d1a0f71cdca4a/w.webp"
+            },
+            "tags": [
+                "bigshale",
+                "markviviano",
+                "saudiarabia",
+                "pacman",
+                "katerichard",
+                "warwick",
+                "onceendeavor",
+                "diamondback",
+                "eogresourcesinc",
+                "eog",
+                "275th",
+                "permianbasin",
+                "newmexico",
+                "permian",
+                "teresathomas",
+                "deloittellp",
+                "autrystephens",
+                "endeavor",
+                "samsledge",
+                "midland",
+                "propetroholdingcorp"
+            ],
+            "title": "Wall Street is warming to Big Shale after $250 billion of deals",
+            "url": "https://finance.yahoo.com/news/wall-street-warming-big-shale-150000429.html?ref=biztoc.com"
+        },
+        {
+            "body": "Japan’s flagship H3 rocket reached orbit and released two small observation satellites in a key second test following a failed debut launch last year, buoying hope for the country in the global space race. The H3 rocket blasted off from the Tanegashima Space Center on time Saturday morning, two…",
+            "created": "Sat, 17 Feb 2024 16:40:06 GMT",
+            "domain": "pbs.org",
+            "favicon": "https://c.biztoc.com/f/pbs.org.png",
+            "id": "e4620932f6800459",
+            "img": {
+                "o": "https://c.biztoc.com/p/e4620932f6800459/o.webp",
+                "s": "https://c.biztoc.com/p/e4620932f6800459/s.webp",
+                "t": "https://c.biztoc.com/p/e4620932f6800459/t.webp",
+                "w": "https://c.biztoc.com/p/e4620932f6800459/w.webp"
+            },
+            "tags": [
+                "h3",
+                "hiroshiyamakawa",
+                "yamakawa",
+                "moon",
+                "h2a",
+                "jaxah3",
+                "masashiokada",
+                "okada",
+                "h3no",
+                "cesatie",
+                "canonelectronics",
+                "tirsat",
+                "h3saturday",
+                "masayukieguchi",
+                "mitsubishiheavy",
+                "slim",
+                "fumiokishida"
+            ],
+            "title": "Japan successfully sends new H3 rocket into orbit in key test after last year's failed debut",
+            "url": "https://www.pbs.org/newshour/science/japan-successfully-sends-new-h3-rocket-into-orbit-in-key-test-after-last-years-failed-debut?ref=biztoc.com"
+        },
+        {
+            "body": "Paramount’s “Bob Marley: One Love” continued its run as box office leader through the specialized six-day holiday frame, adding $7.4 million on Friday from 3,539 locations to bump its domestic tally to $25.3 million. The biopic about the reggae legend could even double the six-day haul of Sony’s…",
+            "created": "Sat, 17 Feb 2024 16:38:08 GMT",
+            "domain": "variety.com",
+            "favicon": "https://c.biztoc.com/f/variety.com.png",
+            "id": "ed6594e234fcce98",
+            "img": {
+                "o": "https://c.biztoc.com/p/ed6594e234fcce98/o.webp",
+                "s": "https://c.biztoc.com/p/ed6594e234fcce98/s.webp",
+                "t": "https://c.biztoc.com/p/ed6594e234fcce98/t.webp",
+                "w": "https://c.biztoc.com/p/ed6594e234fcce98/w.webp"
+            },
+            "tags": [
+                "paramount",
+                "bobmarley",
+                "sony",
+                "madameweb",
+                "northamerican",
+                "marvelcomics",
+                "marcusgreen",
+                "cinemascore",
+                "kingsleybenadir",
+                "lashanalynch",
+                "ritamarley",
+                "african",
+                "exodus",
+                "disney",
+                "warnerbros",
+                "dakotajohnson",
+                "sydneysweeney",
+                "taharrahim",
+                "isabelamerced",
+                "celesteoconnor",
+                "emmaroberts",
+                "adamscott",
+                "zosiamamet",
+                "sjclarkson",
+                "argylle",
+                "applestudios",
+                "universalsmigration",
+                "fathomevents",
+                "chosen",
+                "wonka"
+            ],
+            "title": "Box Office: ‘Bob Marley: One Love’ Gets Together $7.4 Million on Friday, ‘Madame Web’ Falls Behind With $4.3 Million",
+            "url": "https://variety.com/2024/film/box-office/bob-marley-one-love-beating-madame-web-1235914466/?ref=biztoc.com"
+        },
+        {
+            "body": "Bitcoin and cryptocurrencies have skyrocketed over recent months—causing the Biden administration to declare a crypto \"emergency\"—with ethereum up 50% and XRP up 35% over the last year. Subscribe now to Forbes' CryptoAsset & Blockchain Advisor and \"uncover blockchain blockbusters poised for 1,000%…",
+            "created": "Sat, 17 Feb 2024 16:38:06 GMT",
+            "domain": "forbes.com",
+            "favicon": "https://c.biztoc.com/f/forbes.com.png",
+            "id": "b255189cf4058d96",
+            "img": {
+                "o": "https://c.biztoc.com/p/b255189cf4058d96/o.webp",
+                "og": "https://c.biztoc.com/p/b255189cf4058d96/og.webp",
+                "ogs": "https://c.biztoc.com/p/b255189cf4058d96/ogs.webp",
+                "s": "https://c.biztoc.com/p/b255189cf4058d96/s.webp",
+                "t": "https://c.biztoc.com/p/b255189cf4058d96/t.webp",
+                "w": "https://c.biztoc.com/p/b255189cf4058d96/w.webp"
+            },
+            "tags": [
+                "ripple",
+                "subscribe",
+                "jpmorgan",
+                "coinbase",
+                "cryptocodex",
+                "kennethworthington",
+                "blackrock",
+                "fidelity",
+                "jamiedimon",
+                "satoshinakamoto",
+                "satoshinakamato",
+                "worldeconomicforum",
+                "davos"
+            ],
+            "title": "JPMorgan Just Made A Shocking Crypto Flip After Massive Bitcoin, Ethereum, XRP And Crypto Price Rally",
+            "url": "https://www.forbes.com/sites/digital-assets/2024/02/17/jpmorgan-just-made-a-shocking-crypto-flip-after-massive-bitcoin-ethereum-xrp-and-crypto-price-rally/?ref=biztoc.com"
+        },
+        {
+            "body": "The daily active address count has risen 75% on a YTD basis. Polygon’s [MATIC] daily active addresses spiked to fresh all-time highs (ATH) as the proof-of-stake (PoS) chain continues to see higher user participation in 2024. According to a post on social platform X, the number of unique addresses…",
+            "created": "Sat, 17 Feb 2024 16:36:12 GMT",
+            "domain": "ambcrypto.com",
+            "favicon": "https://c.biztoc.com/f/ambcrypto.com.png",
+            "id": "69638089b9ac0c91",
+            "img": {
+                "o": "https://c.biztoc.com/p/69638089b9ac0c91/o.webp",
+                "s": "https://c.biztoc.com/p/69638089b9ac0c91/s.webp",
+                "t": "https://c.biztoc.com/p/69638089b9ac0c91/t.webp",
+                "w": "https://c.biztoc.com/p/69638089b9ac0c91/w.webp"
+            },
+            "tags": [
+                "ytd",
+                "polygon",
+                "ath",
+                "ethereum",
+                "artemis",
+                "inscriptions",
+                "longsshorts"
+            ],
+            "title": "Polygon’s new ‘ATH’",
+            "url": "https://ambcrypto.com/polygon-sees-new-ath-in-this-metric-heres-what-it-means-for-matic/?ref=biztoc.com"
+        },
+        {
+            "body": "[PRESS RELEASE – London, UK, February 17th, 2024] A Gateway to the Build the Future of Blockchain In a landscape where innovation meets expertise, MercureDAO emerges as the leading Web3 Incubator, standing ready to guide crypto projects towards success in this dynamic arena. Key Achievements: 30+…",
+            "created": "Sat, 17 Feb 2024 16:36:10 GMT",
+            "domain": "cryptopotato.com",
+            "favicon": "https://c.biztoc.com/f/cryptopotato.com.png",
+            "id": "743b403147dcc7e0",
+            "img": {
+                "o": "https://c.biztoc.com/p/743b403147dcc7e0/o.webp",
+                "s": "https://c.biztoc.com/p/743b403147dcc7e0/s.webp",
+                "t": "https://c.biztoc.com/p/743b403147dcc7e0/t.webp",
+                "w": "https://c.biztoc.com/p/743b403147dcc7e0/w.webp"
+            },
+            "tags": [
+                "mercuredao",
+                "keyachievements",
+                "incubationservices",
+                "influencermarketing",
+                "ppc",
+                "mentorshipguidance",
+                "experiencedteam",
+                "datadrivenapproach",
+                "metamask",
+                "cosmos",
+                "litecoin",
+                "discovery",
+                "ianmar",
+                "mercuredaoraises"
+            ],
+            "title": "Mercure DAO Raises $1.5M to Lead the Revolution in Web3 Incubation",
+            "url": "https://cryptopotato.com/mercure-dao-raises-1-5m-to-lead-the-revolution-in-web3-incubation/?ref=biztoc.com"
+        },
+        {
+            "body": "IT DOES NOT bode well when a judge, before meting out a punishment, tells a defendant that his lack of remorse “borders on pathological”. Sure enough, that dressing-down of Donald Trump preceded an enormous fine in a civil ruling on February 16th. A judge in New York ordered him and his property…",
+            "created": "Sat, 17 Feb 2024 16:36:09 GMT",
+            "domain": "economist.com",
+            "favicon": "https://c.biztoc.com/f/economist.com.png",
+            "id": "2655ab32f2c56533",
+            "img": {
+                "o": "https://c.biztoc.com/p/2655ab32f2c56533/o.webp",
+                "s": "https://c.biztoc.com/p/2655ab32f2c56533/s.webp",
+                "t": "https://c.biztoc.com/p/2655ab32f2c56533/t.webp",
+                "w": "https://c.biztoc.com/p/2655ab32f2c56533/w.webp"
+            },
+            "tags": [
+                "donaldtrump",
+                "trumporganisation",
+                "newyorks",
+                "ejeancarroll",
+                "arthurengoron",
+                "manhattan",
+                "letitiajames",
+                "democrats",
+                "maralago"
+            ],
+            "title": "The consequences of Donald Trump’s huge fine for fraud",
+            "url": "https://www.economist.com/united-states/2024/02/17/the-consequences-of-donald-trumps-huge-fine-for-fraud?ref=biztoc.com"
+        },
+        {
+            "body": "A New York judge ordered Trump and his companies Friday to pay $355 million in fines, plus interest, after ruling that he had manipulated his net worth in financial statements. The stiff penalty comes just weeks after Trump was ordered to pay $83.3 million to the writer E. Jean Carroll for…",
+            "created": "Sat, 17 Feb 2024 16:36:06 GMT",
+            "domain": "fortune.com",
+            "favicon": "https://c.biztoc.com/f/fortune.com.png",
+            "id": "94a313b0a52f0348",
+            "img": {
+                "o": "https://c.biztoc.com/p/94a313b0a52f0348/o.webp",
+                "s": "https://c.biztoc.com/p/94a313b0a52f0348/s.webp",
+                "t": "https://c.biztoc.com/p/94a313b0a52f0348/t.webp",
+                "w": "https://c.biztoc.com/p/94a313b0a52f0348/w.webp"
+            },
+            "tags": [
+                "trump",
+                "ejeancarroll",
+                "carroll",
+                "letitiajames",
+                "hillaryclinton",
+                "newyorks",
+                "universityofmichigan",
+                "willthomas",
+                "truthsocial",
+                "trumpssaveamerica",
+                "pac",
+                "danielweiner",
+                "trumporganization",
+                "weiner",
+                "trumporganizations",
+                "trumptower"
+            ],
+            "title": "Donald Trump actually owes more than $500 billion in legal judgments, when you factor in interest",
+            "url": "https://fortune.com/2024/02/17/how-much-does-donald-trump-owe-fraud-defamation-judgments/?ref=biztoc.com"
+        },
+        {
+            "body": "Former President Donald Trump has privately told his advisers and allies that he is in favor of a 16-week national abortion ban, making only exceptions for rape, incest or when the mother's life is at risk. What Happened: Since the overturning of Roe v. Wade in mid-2022, Trump has been reticent to…",
+            "created": "Sat, 17 Feb 2024 16:34:09 GMT",
+            "domain": "benzinga.com",
+            "favicon": "https://c.biztoc.com/f/benzinga.com.png",
+            "id": "c699728aaf34b71f",
+            "img": {
+                "o": "https://c.biztoc.com/p/c699728aaf34b71f/o.webp",
+                "s": "https://c.biztoc.com/p/c699728aaf34b71f/s.webp",
+                "t": "https://c.biztoc.com/p/c699728aaf34b71f/t.webp",
+                "w": "https://c.biztoc.com/p/c699728aaf34b71f/w.webp"
+            },
+            "tags": [
+                "donaldtrump",
+                "roevwade",
+                "trump",
+                "supremecourt",
+                "southcarolina",
+                "nikkihaley",
+                "postroevwadeamerica"
+            ],
+            "title": "Donald Trump Mulls 16-week Abortion Ban In Private Conversations With Allies",
+            "url": "https://www.benzinga.com/news/24/02/37192851/donald-trump-mulls-16-week-abortion-ban-in-private-conversations-with-allies?ref=biztoc.com"
+        },
+        {
+            "body": "As we race to the Oscar finish line, it has certainly been a year to remember. The movie business all but shook off the last vestiges of the Covid era with the phenomenon that was Barbenheimer — collectively, Barbie and Oppenheimer earned more than $2 billion globally at the box office. Not only…",
+            "created": "Sat, 17 Feb 2024 16:32:09 GMT",
+            "domain": "deadline.com",
+            "favicon": "https://c.biztoc.com/f/deadline.com.png",
+            "id": "be49541e5159bb06",
+            "img": {
+                "o": "https://c.biztoc.com/p/be49541e5159bb06/o.webp",
+                "s": "https://c.biztoc.com/p/be49541e5159bb06/s.webp",
+                "t": "https://c.biztoc.com/p/be49541e5159bb06/t.webp",
+                "w": "https://c.biztoc.com/p/be49541e5159bb06/w.webp"
+            },
+            "tags": [
+                "oppenheimer",
+                "bestpicture",
+                "focusfeatures",
+                "holdovers",
+                "alexanderpayne",
+                "markjohnson",
+                "davidhemingson",
+                "eastcoast",
+                "supportingactress",
+                "joyrandolph",
+                "bestactor",
+                "paulgiamatti",
+                "palmedor",
+                "cannes",
+                "contenders",
+                "justinetriets",
+                "arthurharari",
+                "marieangeluciani",
+                "flowermoon",
+                "appleoriginalfilms",
+                "oscar",
+                "martinscorsese",
+                "lilygladstone",
+                "mollieburkhart",
+                "leonardodicaprio",
+                "rodrigoprieto",
+                "jackfisk",
+                "adamwillis",
+                "scottgeorge",
+                "ridleyscotts"
+            ],
+            "title": "s Contenders Film: The Nominees Kicks Off Today Spotlighting Cross-Section Of Movies In The Oscar Picture",
+            "url": "https://deadline.com/2024/02/2024-contenders-fim-nominees-livestream-lineup-1235825100/?ref=biztoc.com"
+        },
+        {
+            "body": "Yesterday, Judge Engoron ordered Trump and the Trump Organization to pay a combined $364 million in penalties in the New York civil fraud case. Former Trump attorney Michael Cohen joins Ali Velshi to discuss his own vindication in the case, how he thinks Donald is privately reacting to the ruling,…",
+            "created": "Sat, 17 Feb 2024 16:30:12 GMT",
+            "domain": "msnbc.com",
+            "favicon": "https://c.biztoc.com/f/msnbc.com.png",
+            "id": "d31620a20fd60701",
+            "img": {
+                "o": "https://c.biztoc.com/p/d31620a20fd60701/o.webp",
+                "s": "https://c.biztoc.com/p/d31620a20fd60701/s.webp",
+                "t": "https://c.biztoc.com/p/d31620a20fd60701/t.webp",
+                "w": "https://c.biztoc.com/p/d31620a20fd60701/w.webp"
+            },
+            "tags": [
+                "trump",
+                "trumporganization",
+                "michaelcohen",
+                "alivelshi",
+                "manhattan",
+                "alvinbragg",
+                "engoron"
+            ],
+            "title": "Cohen on Trump’s avalanche of legal penalties: ‘He will have to liquidate his assets’",
+            "url": "https://www.msnbc.com/ali-velshi/watch/michael-cohen-on-trump-s-avalanche-of-legal-penalties-he-will-have-to-liquidate-his-assets-204415557637?ref=biztoc.com"
+        },
+        {
+            "body_preview": "",
+            "created": "Sat, 17 Feb 2024 16:28:39 GMT",
+            "domain": "reddit.com",
+            "favicon": "https://c.biztoc.com/f/reddit.com.png",
+            "id": "cb4f951f27ee4bcd",
+            "img": null,
+            "tags": [],
+            "title": "Was supposed to get pressed shirts and got lawsuits instead",
+            "url": "https://www.reddit.com/r/business/comments/1at3rsp/was_supposed_to_get_pressed_shirts_and_got/?ref=biztoc.com"
+        },
+        {
+            "body_preview": "",
+            "created": "Sat, 17 Feb 2024 16:28:38 GMT",
+            "domain": "boisestatepublicradio.org",
+            "favicon": "https://c.biztoc.com/f/boisestatepublicradio.org.png",
+            "id": "e3c10a3acb2d87d7",
+            "img": null,
+            "tags": [],
+            "title": "This Indigenous artist made her beadwork into a thriving business",
+            "url": "https://www.boisestatepublicradio.org/economy/2024-02-15/indigenous-artist-beadwork-business?ref=biztoc.com"
+        },
+        {
+            "body": "Here are just a few of the top renewable energy stocks to hold today Weakness will eventually prove to be an opportunity in renewable energy stocks to buy. Right now, many of these stocks are falling because of higher inflation, with the consumer price index coming in hotter than expected. That,…",
+            "created": "Sat, 17 Feb 2024 16:26:12 GMT",
+            "domain": "investorplace.com",
+            "favicon": "https://c.biztoc.com/f/investorplace.com.png",
+            "id": "eedc74bc32c6e14b",
+            "img": {
+                "o": "https://c.biztoc.com/p/eedc74bc32c6e14b/o.webp",
+                "s": "https://c.biztoc.com/p/eedc74bc32c6e14b/s.webp",
+                "t": "https://c.biztoc.com/p/eedc74bc32c6e14b/t.webp",
+                "w": "https://c.biztoc.com/p/eedc74bc32c6e14b/w.webp"
+            },
+            "tags": [
+                "weakness",
+                "warrenbuffett",
+                "rsi",
+                "nexgenenergy",
+                "nxe",
+                "globalxuranium",
+                "nysearca",
+                "ura",
+                "enphaseenergy",
+                "enph",
+                "badrikothandaraman",
+                "oppenheimer",
+                "firstsolar",
+                "seekingalpha",
+                "fslr",
+                "solar",
+                "tan",
+                "mac",
+                "sunrun",
+                "arraytechnologies",
+                "solaredge",
+                "southerncopper",
+                "iancooper",
+                "investorplacecom"
+            ],
+            "title": "Get Rich Quick with These 7 Renewable Energy Stocks to Buy Now",
+            "url": "https://investorplace.com/2024/02/get-rich-quick-with-these-7-renewable-energy-stocks-to-buy-now/?ref=biztoc.com"
+        },
+        {
+            "body": "They say only two things in life are certain: death and taxes. Billionaire biohacker Bryan Johnson doesn’t subscribe to that opinion—and not because he has radical ideas about fiscal policy. The tech entrepreneur has gained notoriety for the $2-million-a-year anti-aging routine he’s named the…",
+            "created": "Sat, 17 Feb 2024 16:24:09 GMT",
+            "domain": "fortune.com",
+            "favicon": "https://c.biztoc.com/f/fortune.com.png",
+            "id": "8a8e53b31e5137dd",
+            "img": {
+                "o": "https://c.biztoc.com/p/8a8e53b31e5137dd/o.webp",
+                "og": "https://c.biztoc.com/p/8a8e53b31e5137dd/og.webp",
+                "ogs": "https://c.biztoc.com/p/8a8e53b31e5137dd/ogs.webp",
+                "s": "https://c.biztoc.com/p/8a8e53b31e5137dd/s.webp",
+                "t": "https://c.biztoc.com/p/8a8e53b31e5137dd/t.webp",
+                "w": "https://c.biztoc.com/p/8a8e53b31e5137dd/w.webp"
+            },
+            "tags": [
+                "bryanjohnson",
+                "fortunejohnson",
+                "siliconvalley",
+                "bahamas",
+                "gregmacpherson",
+                "blueprint",
+                "danbuettner",
+                "nationalgeographic",
+                "sardinia",
+                "nicoyapeninsula",
+                "costarica",
+                "ikaria",
+                "greece",
+                "lomalinda"
+            ],
+            "title": "Bryan Johnson, the tech founder spending millions to be 18 again, says his goal is to make death optional",
+            "url": "https://fortune.com/well/2024/02/17/bryan-johnson-blueprint-protocol-aim-death-optional/?ref=biztoc.com"
+        }
+    ]
+]
+// Trending tags Sample:
+[
+    {
+      "tag": "nvidia"
+    },
+    {
+      "tag": "google"
+    },
+    {
+      "tag": "trump"
+    },
+    {
+      "tag": "donaldtrump"
+    },
+    {
+      "tag": "federalreserve"
+    },
+    {
+      "tag": "russian"
+    },
+    {
+      "tag": "ukraine"
+    },
+    {
+      "tag": "amazon"
+    },
+    {
+      "tag": "apple"
+    },
+    {
+      "tag": "openai"
+    },
+    {
+      "tag": "republicans"
+    },
+    {
+      "tag": "florida"
+    },
+    {
+      "tag": "meta"
+    },
+    {
+      "tag": "jensenhuang"
+    },
+    {
+      "tag": "att"
+    },
+    {
+      "tag": "houston"
+    },
+    {
+      "tag": "israel"
+    },
+    {
+      "tag": "nvda"
+    },
+    {
+      "tag": "reddit"
+    },
+    {
+      "tag": "democrats"
+    },
+    {
+      "tag": "rivian"
+    },
+    {
+      "tag": "elonmusk"
+    },
+    {
+      "tag": "tiktok"
+    },
+    {
+      "tag": "goldmansachs"
+    },
+    {
+      "tag": "vladimirputin"
+    },
+    {
+      "tag": "verizon"
+    },
+    {
+      "tag": "downdetector"
+    },
+    {
+      "tag": "treasury"
+    },
+    {
+      "tag": "atlanta"
+    },
+    {
+      "tag": "southcarolina"
+    },
+    {
+      "tag": "investorplacecom"
+    },
+    {
+      "tag": "middleeast"
+    },
+    {
+      "tag": "beijing"
+    },
+    {
+      "tag": "georgia"
+    },
+    {
+      "tag": "newyorkcity"
+    },
+    {
+      "tag": "tesla"
+    },
+    {
+      "tag": "q4"
+    },
+    {
+      "tag": "intel"
+    },
+    {
+      "tag": "gemini"
+    },
+    {
+      "tag": "alphabet"
+    },
+    {
+      "tag": "fbi"
+    },
+    {
+      "tag": "samaltman"
+    },
+    {
+      "tag": "taiwan"
+    },
+    {
+      "tag": "eps"
+    },
+    {
+      "tag": "nt"
+    },
+    {
+      "tag": "nikkihaley"
+    },
+    {
+      "tag": "fortunecom"
+    },
+    {
+      "tag": "supremecourt"
+    },
+    {
+      "tag": "gaza"
+    },
+    {
+      "tag": "israeli"
+    },
+    {
+      "tag": "tokyo"
+    },
+    {
+      "tag": "motleyfool"
+    },
+    {
+      "tag": "moscow"
+    },
+    {
+      "tag": "ohio"
+    },
+    {
+      "tag": "dallas"
+    },
+    {
+      "tag": "democrat"
+    },
+    {
+      "tag": "intuitivemachines"
+    },
+    {
+      "tag": "boeing"
+    },
+    {
+      "tag": "miami"
+    },
+    {
+      "tag": "socialsecurity"
+    },
+    {
+      "tag": "nasa"
+    },
+    {
+      "tag": "hamas"
+    },
+    {
+      "tag": "michigan"
+    },
+    {
+      "tag": "massachusetts"
+    },
+    {
+      "tag": "pennsylvania"
+    },
+    {
+      "tag": "tennessee"
+    },
+    {
+      "tag": "amd"
+    },
+    {
+      "tag": "siliconvalley"
+    },
+    {
+      "tag": "hongkong"
+    },
+    {
+      "tag": "singapore"
+    },
+    {
+      "tag": "nato"
+    },
+    {
+      "tag": "kremlin"
+    },
+    {
+      "tag": "virginia"
+    },
+    {
+      "tag": "yahoofinance"
+    },
+    {
+      "tag": "gpu"
+    },
+    {
+      "tag": "walmart"
+    },
+    {
+      "tag": "northcarolina"
+    },
+    {
+      "tag": "spotify"
+    },
+    {
+      "tag": "kansas"
+    },
+    {
+      "tag": "lasvegas"
+    },
+    {
+      "tag": "warrenbuffett"
+    },
+    {
+      "tag": "brazil"
+    },
+    {
+      "tag": "ivf"
+    },
+    {
+      "tag": "yoy"
+    },
+    {
+      "tag": "fortune"
+    },
+    {
+      "tag": "alexeinavalny"
+    },
+    {
+      "tag": "advancedmicrodevices"
+    },
+    {
+      "tag": "unitedkingdom"
+    },
+    {
+      "tag": "spain"
+    },
+    {
+      "tag": "iran"
+    },
+    {
+      "tag": "austin"
+    },
+    {
+      "tag": "bankofamerica"
+    },
+    {
+      "tag": "colorado"
+    },
+    {
+      "tag": "ontario"
+    },
+    {
+      "tag": "stevehuffman"
+    },
+    {
+      "tag": "seattle"
+    },
+    {
+      "tag": "mexico"
+    },
+    {
+      "tag": "metaplatforms"
+    },
+    {
+      "tag": "ford"
+    },
+    {
+      "tag": "netflix"
+    },
+    {
+      "tag": "arizona"
+    },
+    {
+      "tag": "letitiajames"
+    },
+    {
+      "tag": "midwest"
+    },
+    {
+      "tag": "hollywood"
+    },
+    {
+      "tag": "newjersey"
+    },
+    {
+      "tag": "supermicrocomputer"
+    },
+    {
+      "tag": "alaskaairlines"
+    },
+    {
+      "tag": "thailand"
+    },
+    {
+      "tag": "linkedin"
+    },
+    {
+      "tag": "jpmorgan"
+    },
+    {
+      "tag": "alabamasupremecourt"
+    },
+    {
+      "tag": "freddiemac"
+    },
+    {
+      "tag": "fda"
+    },
+    {
+      "tag": "delaware"
+    },
+    {
+      "tag": "rondesantis"
+    },
+    {
+      "tag": "altman"
+    },
+    {
+      "tag": "android"
+    },
+    {
+      "tag": "times"
+    },
+    {
+      "tag": "tsmc"
+    },
+    {
+      "tag": "subscribe"
+    },
+    {
+      "tag": "nonenvidia"
+    },
+    {
+      "tag": "q3"
+    },
+    {
+      "tag": "shanghai"
+    },
+    {
+      "tag": "newhampshire"
+    },
+    {
+      "tag": "superbowl"
+    },
+    {
+      "tag": "rjscaringe"
+    },
+    {
+      "tag": "asiapacific"
+    },
+    {
+      "tag": "redsea"
+    },
+    {
+      "tag": "justicedepartment"
+    },
+    {
+      "tag": "nar"
+    },
+    {
+      "tag": "santaclara"
+    },
+    {
+      "tag": "samsung"
+    },
+    {
+      "tag": "maryland"
+    },
+    {
+      "tag": "nevada"
+    },
+    {
+      "tag": "johnkirby"
+    },
+    {
+      "tag": "api"
+    },
+    {
+      "tag": "capitalone"
+    },
+    {
+      "tag": "arthurengoron"
+    },
+    {
+      "tag": "iowa"
+    },
+    {
+      "tag": "sp"
+    },
+    {
+      "tag": "dutch"
+    },
+    {
+      "tag": "volkswagen"
+    },
+    {
+      "tag": "missouri"
+    },
+    {
+      "tag": "r2"
+    },
+    {
+      "tag": "palestinians"
+    },
+    {
+      "tag": "register"
+    },
+    {
+      "tag": "moon"
+    },
+    {
+      "tag": "ottawa"
+    },
+    {
+      "tag": "oklahoma"
+    },
+    {
+      "tag": "poland"
+    }
+  ]
