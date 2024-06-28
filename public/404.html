@@ -1,24 +1,22 @@
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
     <meta charset="utf-8">
-    <title>Redirecting...</title>
-    <script>
-        // Check if the URL hash is empty
-        if (!window.location.hash) {
-            // If empty, means this is a direct 404 access, so redirect to home with hash
-            window.location = '/InfoHub/index.html#' + window.location.pathname;
-        } else {
-            // If hash is present, means we're redirecting back to index.html from 404.html
-            // Wait for the page to load
-            window.addEventListener('load', function () {
-                // Navigate to the original URL before the 404 redirect
-                window.location.href = window.location.hash.substring(1);
-            });
-        }
+    <title>Single Page Apps for GitHub Pages</title>
+    <script type="text/javascript">
+      var pathSegmentsToKeep = 1;
+
+      var l = window.location;
+      l.replace(
+        l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
+        l.pathname.split('/').slice(0, 1 + pathSegmentsToKeep).join('/') + '/?/' +
+        l.pathname.slice(1).split('/').slice(pathSegmentsToKeep).join('/').replace(/&/g, '~and~') +
+        (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
+        l.hash
+      );
+
     </script>
-</head>
-<body>
-    <p>If you are not redirected automatically, follow the <a href='/InfoHub/index.html'>link to the homepage</a>.</p>
-</body>
+  </head>
+  <body>
+  </body>
 </html>

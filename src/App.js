@@ -11,7 +11,7 @@ import Footer from './Components/Footer';
 import Sidebar from './Components/Sidebar';
 // import SearchBar from './Components/SearchBar';
 // import Fazul from './Fazul';
-import { HashRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import SearchBar from './Components/SearchBar';
 // import TrendingTags from './Components/TrendingTags';
 
