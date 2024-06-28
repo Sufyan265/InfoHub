@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Redirecting...</title>
+    <script>
+        // Check if the URL hash is empty
+        if (!window.location.hash) {
+            // If empty, means this is a direct 404 access, so redirect to home with hash
+            window.location = '/InfoHub/index.html#' + window.location.pathname;
+        } else {
+            // If hash is present, means we're redirecting back to index.html from 404.html
+            // Wait for the page to load
+            window.addEventListener('load', function () {
+                // Navigate to the original URL before the 404 redirect
+                window.location.href = window.location.hash.substring(1);
+            });
+        }
+    </script>
+</head>
+<body>
+    <p>If you are not redirected automatically, follow the <a href='/InfoHub/index.html'>link to the homepage</a>.</p>
+</body>
+</html>

@@ -12,7 +12,7 @@ export class NewItem extends Component {
         <div id='newsItems' className="card m-2" style={cardStyle}>
           <div className="faviconImg">
             <a href={`https://www.${domain}`} target='_blank' rel="noreferrer">
-              <img src={faviconUrl} alt="" />
+              <img src={faviconUrl} alt="" loading='lazy' />
             </a>
           </div>
           <img src={imgUrl} className="card-img-top" alt="loading..." />
